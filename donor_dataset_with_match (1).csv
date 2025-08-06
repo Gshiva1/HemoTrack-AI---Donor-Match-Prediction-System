@@ -1,0 +1,1001 @@
+Donor_ID,Name,Blood_Group,Location,Latitude,Longitude,Last_Donation_Days_Ago,Availability,Screened,Match
+DR0001,Frank Gonzalez,A-,Lake Annafort,51.518172,29.887773,160,Yes,Yes,1
+DR0002,Debbie Nelson,O+,Johnsonport,6.595204,-16.602887,139,No,Yes,0
+DR0003,Tiffany Hunt,A-,Karentown,9.0155275,-4.211477,8,Yes,Yes,0
+DR0004,April Williams,O-,Lindaton,21.8345525,-46.836778,47,No,Yes,0
+DR0005,Katherine Hunt,B-,West Alisonview,-33.229407,-147.428479,137,Yes,Yes,0
+DR0006,Debbie Mullins,B-,West Erica,-41.801358,168.852432,118,Yes,No,0
+DR0007,Ronald Patterson,AB+,Leeborough,-19.052878,132.258234,96,Yes,Yes,0
+DR0008,Maxwell Mejia,A-,Wrightburgh,-48.5205285,-9.696175,58,Yes,No,0
+DR0009,Taylor Thompson,B+,South Brandonshire,-18.429904,-96.753343,1,Yes,No,0
+DR0010,Christine Murphy,B+,Jeffreyside,6.345491,-64.353776,20,No,No,0
+DR0011,Teresa Melton,O+,Debramouth,-25.7811795,-57.110793,140,No,Yes,0
+DR0012,Joseph Johnson,AB+,South Justinside,35.119753,-127.883942,1,No,No,0
+DR0013,Samantha Scott,AB+,West Nicholas,21.5663965,33.188876,79,No,Yes,0
+DR0014,Joshua Ramos,A+,North Mary,-16.3870215,-43.708459,137,Yes,No,0
+DR0015,Destiny Morrison,B+,Warefort,43.003425,-132.67852,128,Yes,Yes,0
+DR0016,Michelle Hogan,B+,Burnsfurt,55.210742,-163.955065,97,Yes,Yes,0
+DR0017,Thomas Duncan,A-,New Monique,48.566108,-70.777293,176,No,No,0
+DR0018,Laura Thomas,A+,Charlesmouth,26.988982,-10.178869,119,Yes,Yes,1
+DR0019,Gary Day,AB-,Port Teresa,24.665414,-157.339979,73,No,Yes,0
+DR0020,Robert Guzman,A-,New Debra,-89.981946,-23.270314,139,No,Yes,0
+DR0021,Brianna Cooper,O+,Port Alexandra,-21.721954,65.536457,7,No,No,0
+DR0022,Julia Kim,O-,Port Zacharyside,-31.6586095,-11.090646,14,Yes,Yes,0
+DR0023,Ryan Lee,B+,Leonardchester,51.1766385,154.23955,113,No,No,0
+DR0024,Ashley Flores,AB+,Jessicahaven,-12.27599,40.907792,162,No,Yes,0
+DR0025,Steven Evans,AB+,Margaretborough,-58.8898255,-148.348182,165,No,Yes,0
+DR0026,Deborah Gonzales,AB-,Haroldbury,-0.06473,82.96438,114,Yes,Yes,0
+DR0027,Shawn Pineda,O-,Lopezstad,58.0792935,58.201247,132,Yes,No,0
+DR0028,Laura Roach,B-,Mollystad,-33.803311,-140.104965,85,No,No,0
+DR0029,Brent Young,B-,West Ronaldton,-11.3622625,-149.028115,60,Yes,No,0
+DR0030,Anthony Carrillo,A+,Port Donna,4.7229745,22.139221,74,Yes,No,0
+DR0031,Andrea Thompson,O+,New Alexandra,71.9951395,-137.192258,71,Yes,No,0
+DR0032,James Hill,A-,North Catherine,-22.3606425,-166.391881,70,Yes,No,0
+DR0033,Karen Leonard,B-,North Alexandria,-27.8855195,-111.750397,49,No,No,0
+DR0034,John Hill,A+,Kevinton,22.9368625,-81.363961,64,No,Yes,0
+DR0035,Kelly Mckenzie MD,AB-,Huntershire,17.952353,1.470611,112,Yes,Yes,0
+DR0036,David Suarez,B+,Jennifertown,-64.3753675,-105.900223,63,No,Yes,0
+DR0037,Jason Fernandez,O-,Lake Samuel,77.714742,91.113038,150,No,No,0
+DR0038,Rachael Rogers,O+,Frederickland,-48.011313,-177.373501,122,No,Yes,0
+DR0039,Linda Bowers,AB-,Murraystad,85.6017215,-10.039173,143,Yes,Yes,0
+DR0040,Kara Delgado,A-,South William,60.0393795,173.662068,101,Yes,No,0
+DR0041,Catherine Cook,O-,South Ashleyhaven,24.510296,-29.896154,127,No,No,0
+DR0042,Deanna Lara,AB+,Emilyfurt,46.489716,69.841484,115,No,No,0
+DR0043,Alexis Howard,A-,Vargasborough,-22.162655,-132.41389,24,No,No,0
+DR0044,Julian Hall,B+,South Christopherland,88.502466,-65.968309,58,Yes,Yes,0
+DR0045,Charles Austin,O-,South Tonihaven,71.1314745,59.839817,33,No,Yes,0
+DR0046,Jeffrey Herrera,AB+,Nicholsberg,42.7654135,39.099049,79,Yes,Yes,0
+DR0047,Aimee Aguilar,B+,Port Kevin,-44.423445,-134.62348,57,Yes,No,0
+DR0048,Megan Williams,O+,New Debra,-67.141952,-78.838261,9,Yes,No,0
+DR0049,Ross Carrillo,O-,Jamesfurt,-81.0752095,-83.909005,132,No,Yes,0
+DR0050,Calvin Cooley,O-,Ericberg,-6.8838665,-15.515442,101,No,No,0
+DR0051,Rachel Chan,O+,Ericmouth,50.179631,-81.583336,59,No,Yes,0
+DR0052,Nicholas Williams,O+,Susanview,62.458893,-102.113159,27,No,No,0
+DR0053,Larry Ortiz,B-,Jamesmouth,38.4563185,-36.842592,72,No,No,0
+DR0054,Melanie Macias,AB+,Port Kenneth,-11.311934,-48.283597,100,No,Yes,0
+DR0055,Ashley Guzman,AB+,South Sandraton,84.6498105,113.22987,127,No,Yes,0
+DR0056,Katrina Smith,O-,Sydneyview,24.2989045,-133.787103,84,Yes,No,0
+DR0057,Summer Roman,AB+,Anthonybury,-22.4639895,-77.130285,131,No,Yes,0
+DR0058,Matthew Valdez,O+,Martinezborough,54.124871,157.335521,168,Yes,Yes,1
+DR0059,Misty Fischer,A+,Marksstad,63.50444,-4.52458,21,No,No,0
+DR0060,Alexa Cooper,A-,North Joshuafurt,49.904223,70.635196,148,No,Yes,0
+DR0061,Anthony Anderson,O-,Port Jessicaport,41.5510865,-87.441423,138,Yes,Yes,1
+DR0062,Christopher Oliver,AB+,South Craig,-22.529333,165.831674,132,Yes,Yes,0
+DR0063,Jerry Sullivan,AB-,Julianburgh,-77.678096,156.973291,104,Yes,Yes,0
+DR0064,Tanya Ramirez,AB-,Noblestad,54.56245,-77.292518,37,No,Yes,0
+DR0065,Katrina Cole,B+,Moorefurt,-19.357746,94.115284,5,Yes,No,0
+DR0066,Amanda Bennett,AB-,Anthonyville,20.745508,99.837828,177,No,Yes,0
+DR0067,Michael Dominguez,AB-,Priceberg,29.3331385,-46.426709,80,No,Yes,0
+DR0068,Jose Smith,A+,New Sierraville,-56.6489515,69.169,109,Yes,No,0
+DR0069,Cameron Wilcox,B-,Joannaborough,-23.9148075,-74.550766,74,No,No,0
+DR0070,Jacob Rios,AB-,North Christophershire,-0.911843,139.738387,90,No,No,0
+DR0071,Jessica Ramirez,B-,East Timothyshire,74.597353,-147.802137,120,Yes,No,0
+DR0072,Jason Nelson,O-,Port Julia,10.306086,-40.663771,44,No,Yes,0
+DR0073,Brian Paul PhD,B+,East Penny,79.7966495,-68.415428,142,No,No,0
+DR0074,David Smith,A-,Claudiabury,-47.660818,134.086688,0,Yes,Yes,0
+DR0075,Laura Gray,A-,Jennifermouth,19.216962,-124.748328,129,No,Yes,0
+DR0076,Michael Davis,AB-,South Stephaniefort,78.723974,158.950662,98,No,Yes,0
+DR0077,Peter Mendoza,B-,South Lauren,-48.5774125,-54.841937,50,No,No,0
+DR0078,Elizabeth Dillon,AB+,Port Curtisshire,-79.0239425,78.532439,164,Yes,Yes,0
+DR0079,Michael Castillo,B+,Cynthiaview,25.904128,-37.551503,153,No,Yes,0
+DR0080,Jonathan Bass,B+,Johnville,-69.7502625,13.988425,55,No,Yes,0
+DR0081,Rebecca Jacobs,AB+,Lake Barbara,69.539957,133.908256,135,No,Yes,0
+DR0082,Mariah Becker,O-,Michaelside,-46.1967595,-52.805462,20,Yes,Yes,0
+DR0083,Melinda Lopez,A-,Davidville,-6.3751035,126.939509,92,Yes,Yes,1
+DR0084,Tammy Booth,A+,Kempberg,21.806107,134.648642,104,No,Yes,0
+DR0085,Alyssa Manning,B+,Aliciahaven,26.186231,-82.146396,58,Yes,No,0
+DR0086,Travis Stevens,B-,Lake Jamesburgh,-6.133235,151.304983,33,Yes,Yes,0
+DR0087,Brian Butler,A+,Brandonborough,86.0471055,-166.388489,51,No,No,0
+DR0088,Shaun Ramos,A-,Lake Tracey,43.336005,-72.836862,166,Yes,No,0
+DR0089,Anna Dillon,B-,South Juan,-51.0326165,122.533958,159,No,No,0
+DR0090,Justin Charles,O-,New Robinview,-44.0857815,127.590664,47,Yes,Yes,0
+DR0091,Douglas Rasmussen,A-,Rebeccaville,-34.039379,-135.439108,166,No,No,0
+DR0092,Leonard Salazar,A+,West Christina,16.0648525,-2.268531,61,No,No,0
+DR0093,James Phillips,O-,Kimtown,-24.4835555,-29.028344,40,No,Yes,0
+DR0094,Erika Carpenter,O+,North Moniqueton,-49.969538,-78.164946,78,No,Yes,0
+DR0095,Adam Barker,A+,New Steven,34.4019885,-15.423556,87,Yes,Yes,0
+DR0096,Erin Williams,B+,Andersonfort,16.4184625,16.76054,17,No,Yes,0
+DR0097,Christina Scott,A-,Quinnshire,-74.509395,59.80107,5,No,No,0
+DR0098,Michael Wilson,A-,Port Joshua,85.4004375,11.985782,70,Yes,Yes,0
+DR0099,Dana Martin,B+,Jonathanhaven,-77.023626,-123.918765,81,Yes,Yes,0
+DR0100,Kim Meyers MD,B+,Jenniferborough,-60.7584585,-47.374542,120,No,No,0
+DR0101,Andrew Howard,B-,Lake Jamesfurt,-3.9263295,64.065832,59,Yes,No,0
+DR0102,Joshua Cruz,A-,Jonesshire,-43.8810325,167.811501,37,No,Yes,0
+DR0103,Sean Foster,AB-,Snyderville,-1.5015735,-143.721489,51,Yes,No,0
+DR0104,Joshua Allen,A+,Port John,-39.4106365,-139.237101,47,No,No,0
+DR0105,Alan Odonnell,B-,Cervantesfort,-81.6985115,130.466978,35,Yes,No,0
+DR0106,Stephanie Nunez,O-,Thomasville,-82.804025,13.82081,32,No,Yes,0
+DR0107,Eric Sandoval,A+,South Normanshire,2.006279,95.307496,56,No,Yes,0
+DR0108,Katherine Jones,A+,Shannonside,-62.834669,-103.962762,1,No,Yes,0
+DR0109,Donna Perez,B-,Jeffreyton,-13.5076155,121.894268,133,Yes,Yes,0
+DR0110,Angela Walker,A-,South Tinamouth,68.4235495,-151.864066,79,No,Yes,0
+DR0111,Dawn Woodard,O+,Jenniferchester,-87.6987405,-162.842093,112,No,No,0
+DR0112,Ryan Leonard,B+,Alexismouth,20.007017,-86.153229,176,Yes,Yes,0
+DR0113,Kathy Wood,O-,Taylorport,70.05558,61.81823,102,Yes,No,0
+DR0114,Eric Gray,AB+,Alanchester,64.913628,20.185367,76,Yes,Yes,0
+DR0115,Wesley Nolan,AB-,North Victoriamouth,-0.4687795,149.652974,9,Yes,Yes,0
+DR0116,Andrew Wu,O+,Port Randall,86.059748,13.639832,147,No,No,0
+DR0117,Stacey Harris,AB+,Port Kendra,64.7373215,-115.235241,109,No,Yes,0
+DR0118,Natasha Chavez,O+,West Jean,0.215604,-143.292781,27,No,No,0
+DR0119,Jeffrey Jimenez,A-,Port Amberburgh,20.0925605,96.723547,7,No,No,0
+DR0120,Melissa Mckay,O+,Mariahberg,-36.9289275,136.241403,28,Yes,No,0
+DR0121,Joel Sandoval,AB-,North Mariabury,-42.9265005,-103.366785,51,Yes,Yes,0
+DR0122,Beth Williams,B-,Timothymouth,-86.840103,126.637005,143,No,No,0
+DR0123,Jessica Gordon,AB-,Conradborough,-74.7912015,44.721542,144,No,No,0
+DR0124,Erin Brooks,B+,Jeremyborough,-32.205895,20.465241,57,No,No,0
+DR0125,Debbie Jackson,A+,Holmesburgh,-28.213912,-165.616926,174,Yes,Yes,1
+DR0126,William Huynh,A+,East Lisachester,-71.6213255,-67.906921,135,No,Yes,0
+DR0127,Katelyn Casey,B+,Myersville,-42.5874635,-162.00488,96,No,Yes,0
+DR0128,Sherri Griffith,O-,Carriechester,-76.729507,156.667346,66,No,No,0
+DR0129,Deborah Obrien,AB-,Lake Annettemouth,-34.2121645,-174.646503,70,No,No,0
+DR0130,Danielle Wolf,AB-,Taylorport,34.7128605,-30.574724,103,No,No,0
+DR0131,Haley Allen,AB+,Christianland,1.244982,-142.766883,131,Yes,No,0
+DR0132,Jason Miller,A-,Vangstad,-13.7718575,1.31673,46,No,No,0
+DR0133,Connie Wilson,O-,West Lauraborough,-54.5480545,149.236636,26,Yes,Yes,0
+DR0134,Pamela Murphy,A-,Sharonbury,5.534166,-60.444244,76,Yes,No,0
+DR0135,Robert Burton DDS,A-,Mullinsside,-82.950133,-153.257753,4,Yes,Yes,0
+DR0136,Joshua Washington,O-,East Katherine,-5.2080085,-148.342529,53,No,Yes,0
+DR0137,Martin Mccoy,O-,South Robert,-19.0284855,114.984091,91,No,No,0
+DR0138,Eddie Brooks,AB+,East Jessicabury,-83.983334,92.36591,82,No,No,0
+DR0139,Erin Smith,AB+,Annside,46.639573,-119.610885,67,Yes,Yes,0
+DR0140,Keith Morales,AB+,North Rubenside,57.3007195,31.103459,152,No,No,0
+DR0141,Dustin Page,A+,South Russell,13.6504255,59.995301,48,No,No,0
+DR0142,Corey Gardner,B-,Nicholsonland,34.916471,148.541819,97,Yes,No,0
+DR0143,Jennifer Glover,O-,Sotoview,45.5956945,-110.494157,120,Yes,Yes,1
+DR0144,Susan Cox,AB+,West Jordanstad,75.88087,159.108613,55,No,No,0
+DR0145,Madison Campbell,A+,Port Erika,53.0510895,160.984376,141,No,Yes,0
+DR0146,Michael Norman,A+,Morrisville,27.9792975,-53.822233,49,Yes,No,0
+DR0147,Lisa Cisneros,A+,North Alejandroville,-41.3810515,-50.827336,55,No,Yes,0
+DR0148,Christina Leonard,O-,Matthewmouth,-74.720918,-154.520726,178,Yes,Yes,1
+DR0149,Derek Lopez,A+,Thompsonville,15.3781665,-62.64179,55,Yes,Yes,0
+DR0150,Alexander Holloway,AB-,Lake Tinachester,58.7429435,57.798332,132,No,Yes,0
+DR0151,James Massey,B-,Sethfort,15.083712,40.323968,167,Yes,Yes,0
+DR0152,Brandon Munoz,A+,Carolburgh,-3.6727345,38.425052,22,Yes,No,0
+DR0153,Wendy Cox,O+,Markberg,-77.137181,-132.359516,57,Yes,No,0
+DR0154,Jamie Howard,A+,Jameschester,51.459665,102.908959,90,Yes,No,0
+DR0155,Karla Martinez,B-,Burtonhaven,-54.408764,-116.967665,87,No,No,0
+DR0156,Ashley Cunningham,AB-,West Edwinburgh,24.1639035,148.255914,37,No,Yes,0
+DR0157,Alison Allen,O-,Robertview,-54.6585355,167.17239,31,No,No,0
+DR0158,Raymond Payne,O-,Lake Lindseybury,-32.8335925,-155.663972,74,Yes,Yes,0
+DR0159,Angelica Jones,B+,Lake Carolineland,-13.7359785,100.700231,15,No,No,0
+DR0160,Justin Adams,B-,Colemanstad,-40.119394,61.653695,48,No,No,0
+DR0161,Mark Lester,O+,Tinastad,47.8924575,60.862901,47,Yes,No,0
+DR0162,Amanda Jones,AB-,Davidshire,-30.0122585,-65.42235,139,No,No,0
+DR0163,John Cohen,AB-,Port Christopher,-40.70996,119.479119,136,No,Yes,0
+DR0164,Brandy Smith,A-,Jonathanton,54.6709655,115.233504,159,Yes,No,0
+DR0165,Jerry Ward,B+,West Ariel,-30.7559895,7.902536,163,Yes,No,0
+DR0166,Susan Caldwell,A-,Frankfurt,-27.9157415,149.945046,119,Yes,No,0
+DR0167,Victoria Bond,B-,Spencemouth,87.694827,-159.016505,164,Yes,No,0
+DR0168,Brian Aguirre,AB+,West Aprilside,42.708401,-151.495765,52,No,No,0
+DR0169,David Aguilar,A+,Jamesmouth,-71.950595,-6.307045,80,Yes,Yes,0
+DR0170,Dean Evans,O-,West Darrell,53.5423675,-120.998992,8,No,No,0
+DR0171,Scott Pacheco,B+,Andrealand,43.796934,-93.329032,173,No,No,0
+DR0172,Katherine Davis,O-,Lake Roy,-2.3514955,97.483282,122,Yes,Yes,1
+DR0173,Jennifer Moore,B-,South Mary,-33.4313205,165.582739,10,No,Yes,0
+DR0174,Hannah Howard,AB+,Port Kenneth,-10.6323455,-96.303633,108,Yes,No,0
+DR0175,Kyle Weiss,AB+,North Josephfort,73.8011015,-25.867872,151,No,No,0
+DR0176,Stanley Riley,B-,West Pedroview,-39.9964275,10.564977,166,No,No,0
+DR0177,Christian Jones,AB+,Ashleyberg,59.0643135,29.953509,165,Yes,No,0
+DR0178,Shawn Robinson,A+,South Brianbury,-62.025359,100.430808,64,Yes,Yes,0
+DR0179,Todd Simmons,A-,Davisburgh,-4.4369975,-122.219528,177,Yes,Yes,1
+DR0180,Lisa Walker,AB+,Michelletown,37.615871,-26.808868,99,No,Yes,0
+DR0181,David Taylor,B-,Humphreyfurt,32.9707155,-99.985658,99,No,No,0
+DR0182,Mr. Stephen Davis,O-,West Melissa,-38.471624,-144.326218,84,No,Yes,0
+DR0183,Robert Hunter,O+,West Laurieshire,-56.520705,96.01881,48,Yes,No,0
+DR0184,Benjamin Wagner,AB+,Mercadotown,-83.5885185,-2.129252,165,Yes,No,0
+DR0185,Cathy Williams,A+,Kathleenview,76.6605805,-97.880549,174,No,No,0
+DR0186,Anthony Garcia,AB-,East Jacob,0.2942865,-167.062595,164,Yes,Yes,0
+DR0187,Jodi Edwards,O-,Patricktown,38.8013755,168.913422,152,Yes,No,0
+DR0188,Kimberly Contreras,B+,Pamelaville,-46.7912825,166.93328,126,Yes,No,0
+DR0189,John Sampson,B-,West Andrewtown,-23.878012,-22.313579,34,No,Yes,0
+DR0190,Adrienne Wilson,AB-,Lake Marie,62.9636935,-98.305607,82,Yes,No,0
+DR0191,Elizabeth Phillips,B-,Smithfurt,83.462097,-127.81814,121,Yes,No,0
+DR0192,Katie Rush,A-,Natalieshire,51.4482565,-162.476553,168,No,Yes,0
+DR0193,Danielle Martinez,B-,Andersonhaven,-76.0356585,38.384228,179,Yes,Yes,0
+DR0194,Frank Washington,B-,West Jonathon,-41.2595135,-93.017745,76,Yes,Yes,0
+DR0195,Jessica Barber,O-,Meadowstown,72.2288035,89.93847,167,No,No,0
+DR0196,Emily Klein,A-,North Kristinburgh,56.4087375,-119.983205,67,No,Yes,0
+DR0197,Wesley Morales,B+,North John,37.7717165,-29.075085,9,Yes,No,0
+DR0198,Justin Smith,B+,East Robert,74.754332,15.252841,135,No,Yes,0
+DR0199,Jeffrey Chapman,AB-,New Karentown,-77.376635,130.688689,113,Yes,Yes,0
+DR0200,Andrew Smith,B+,Veronicatown,37.276256,-99.276322,48,Yes,Yes,0
+DR0201,Diane Young,AB-,Port Ashley,60.3419895,159.55769,54,No,No,0
+DR0202,Deborah Garcia,A+,Sarahberg,-87.5658555,174.621825,127,No,Yes,0
+DR0203,Ryan Wallace,A+,Castroshire,26.90258,-35.71452,73,Yes,No,0
+DR0204,Justin Green,O+,Ramirezshire,-27.935563,-141.586617,25,Yes,No,0
+DR0205,Kimberly Green,A-,Jacksonmouth,-8.696446,-63.820893,153,No,Yes,0
+DR0206,Thomas Garza,A+,East Reginashire,73.282546,148.634697,31,No,Yes,0
+DR0207,Mallory Goodwin,A+,East Johnton,17.0118505,156.007412,30,No,No,0
+DR0208,Jason Frye II,O+,West Todd,-49.426862,74.926919,60,No,Yes,0
+DR0209,Sandra Green,O-,Hickmanfurt,-16.7445265,96.249646,91,No,Yes,0
+DR0210,Lisa Jenkins,A-,New Timothyport,-36.40398,-165.01581,160,No,Yes,0
+DR0211,Kevin Davidson,O-,Randolphfort,59.150617,57.204537,54,Yes,Yes,0
+DR0212,Stacey Walker,A+,Christianview,-58.9716875,26.812815,116,Yes,Yes,1
+DR0213,Steven Freeman,B-,Blackmouth,13.639848,-96.332671,66,No,Yes,0
+DR0214,Victor Miller,B-,South Jonathantown,-11.928975,-89.792262,100,No,No,0
+DR0215,Tara Berry,A-,East Jeffchester,86.7532485,-9.44586,16,No,Yes,0
+DR0216,Samantha White,O+,Seanville,87.0940755,93.870668,94,Yes,Yes,1
+DR0217,Barbara Bauer,O+,West Sara,86.235436,-163.545352,55,No,No,0
+DR0218,Richard Clark,AB+,Lauraview,-15.78354,146.56265,170,Yes,Yes,0
+DR0219,Alexandria Butler,A+,Nathanmouth,20.8329605,-8.029606,54,Yes,No,0
+DR0220,Jose Reeves,O-,New Kimberlyton,57.0997095,25.102228,133,No,Yes,0
+DR0221,Cindy Bryan,AB-,Smithmouth,-18.8690455,87.862629,137,Yes,No,0
+DR0222,Susan Oconnor,A+,Edwardsmouth,15.6516255,-17.500582,20,Yes,Yes,0
+DR0223,Jessica Edwards,B-,Brownshire,-86.898077,-28.175459,40,Yes,No,0
+DR0224,Steven Collins,A-,Martinport,-79.579937,20.787061,7,No,No,0
+DR0225,Mark Johnson,B-,Martinezbury,21.975496,12.945647,108,Yes,No,0
+DR0226,Brian Huang,O+,Michaelbury,-54.726176,132.163707,0,No,No,0
+DR0227,Stephen Kline,A-,Lake Joelfort,-15.5794285,-103.972315,162,Yes,Yes,1
+DR0228,Douglas Barber,A-,Robertshire,-15.361104,127.509643,71,No,Yes,0
+DR0229,Anna Lawrence,A+,Villegashaven,-18.214517,82.953926,29,No,Yes,0
+DR0230,James Brown,AB+,East Michaelhaven,-62.5865005,12.678979,118,No,No,0
+DR0231,Cody Allen,O-,Jenniferbury,-17.9517845,155.872515,46,No,Yes,0
+DR0232,Jeffery Russell PhD,A-,West Rebeccashire,71.1190405,81.538563,9,No,No,0
+DR0233,Candace Khan,AB+,Crosbyshire,12.554666,151.599002,112,Yes,Yes,0
+DR0234,Debra Robinson,O-,Matthewberg,-31.2088135,42.235256,99,Yes,Yes,1
+DR0235,Stephanie Stanley,A+,East Mitchell,-21.988627,86.459395,152,Yes,Yes,1
+DR0236,Teresa Martin,O-,Jimmyhaven,-11.506284,-1.425727,93,Yes,No,0
+DR0237,Debra Rice,O-,North Brandonmouth,56.934614,134.625675,87,Yes,Yes,0
+DR0238,Daniel King,A+,Burtonview,-22.2570655,45.952928,172,Yes,No,0
+DR0239,Dylan Ward,A-,Jonesstad,-20.991199,-116.791363,137,Yes,Yes,1
+DR0240,Robert Lane MD,B-,North Michaelborough,39.242117,29.06389,159,Yes,Yes,0
+DR0241,William Patton,B-,South Kimberly,-36.925018,-3.538192,42,No,No,0
+DR0242,Joseph Burns,AB-,Laurenport,4.3399845,35.63491,96,Yes,No,0
+DR0243,Jennifer Young,AB-,New Jeremiah,-89.815941,-37.381955,100,Yes,No,0
+DR0244,Catherine Shaffer,O+,Phillipsport,16.575726,-75.783095,104,No,Yes,0
+DR0245,Ryan Acevedo,A+,West Amanda,62.392482,-95.471713,145,Yes,No,0
+DR0246,Kaitlin Wilson,O-,Reginaldstad,-32.7496395,-130.992022,71,Yes,No,0
+DR0247,Jennifer Carpenter,B-,Maynardstad,-55.1909105,20.036531,169,Yes,Yes,0
+DR0248,Stephanie Smith,B-,Port Erin,-15.975131,7.451615,175,No,Yes,0
+DR0249,Mr. Michael Cooper,A+,Tracyville,21.1351225,-151.53498,1,No,Yes,0
+DR0250,David Manning,AB+,South Deanside,-22.028487,-54.600573,77,No,No,0
+DR0251,Wendy Lee,A-,West Anneport,68.8420585,-55.241431,27,Yes,No,0
+DR0252,Richard Gonzalez,A-,North Krista,-28.761487,49.562772,57,No,No,0
+DR0253,Courtney Zhang,O+,Jonesmouth,70.3717215,124.603705,113,Yes,Yes,1
+DR0254,Janice Travis,B-,Aaronshire,-53.810487,87.557729,97,Yes,No,0
+DR0255,John Joseph,O+,Maryburgh,36.4905295,116.187908,118,No,Yes,0
+DR0256,Alan Copeland,A+,Lake Craig,-67.6444705,-159.00725,140,Yes,No,0
+DR0257,Michael Bell,B+,East Carolside,23.4631755,40.48484,17,Yes,Yes,0
+DR0258,Billy Gomez,A+,Cooperview,-67.3964075,-42.020154,150,No,Yes,0
+DR0259,Tanya Cook,AB+,North Michael,-20.738701,120.560877,3,Yes,No,0
+DR0260,Samuel Rodriguez,AB+,Kaitlynmouth,28.400073,149.83148,71,Yes,Yes,0
+DR0261,Scott Jackson,O-,Lake Michaelmouth,74.931753,135.671966,131,Yes,Yes,1
+DR0262,Juan Brown,O-,Ginabury,-61.7490555,116.407757,3,Yes,Yes,0
+DR0263,Megan Hill,O+,Henrytown,32.8606685,-55.661274,76,Yes,Yes,0
+DR0264,Ricky Gonzalez,B+,Kingstad,41.4283705,28.80401,176,No,No,0
+DR0265,Edward Johnson,O-,Heidiburgh,-46.125501,36.235916,125,No,Yes,0
+DR0266,Alexis Espinoza,A-,Port Gregberg,-11.52436,-41.570234,56,No,No,0
+DR0267,Laura Dodson,O+,South Taylorville,-58.049879,-150.428833,8,No,No,0
+DR0268,Tracy Smith,O-,Lake Philip,-29.2961005,115.988289,47,No,No,0
+DR0269,Lisa Mccarty,B-,New Michael,45.4354325,-154.812017,134,Yes,No,0
+DR0270,Eric Robinson,A-,Troyhaven,-47.111053,-45.957461,112,Yes,Yes,1
+DR0271,William Johnston,A+,South Michaelview,-17.2147985,-147.447152,177,Yes,Yes,1
+DR0272,Stephanie Armstrong,AB+,Longtown,32.661991,79.136706,47,No,No,0
+DR0273,Kelsey Duncan,B-,East Courtney,-26.690496,-55.965274,58,Yes,Yes,0
+DR0274,David Lewis,A-,Garrettburgh,-40.452103,147.922092,166,Yes,Yes,1
+DR0275,Angela Frazier,A+,Lake Shannon,71.249619,-73.175184,167,Yes,No,0
+DR0276,Spencer Flores,B-,Mikefurt,-58.462007,34.095493,1,Yes,No,0
+DR0277,Jeremiah Murphy,O-,New Kelsey,-51.248545,-20.7627,99,No,Yes,0
+DR0278,Thomas Butler,A+,Taylorland,-52.8329515,-108.319985,10,Yes,No,0
+DR0279,Michael Foley,O-,South Rachel,64.3571265,-109.405038,176,Yes,No,0
+DR0280,Larry Wright,AB-,Donaldbury,29.978991,30.63504,1,No,Yes,0
+DR0281,Melissa Olson,B+,Tracymouth,-28.6831835,-150.967716,42,No,No,0
+DR0282,Eric Sloan,O+,Lake Casey,57.0974945,46.990246,68,No,No,0
+DR0283,Marie Stewart,O+,North Jaclyn,46.8768735,38.809608,122,No,Yes,0
+DR0284,Kelly Walker,AB+,West Davidland,-36.569576,-90.837302,109,Yes,No,0
+DR0285,Megan Gibbs,O+,East Meghanfurt,-3.6717345,28.922563,129,Yes,Yes,1
+DR0286,Jennifer Ali,O+,Williamsburgh,53.977797,112.413434,103,No,No,0
+DR0287,Erika Dodson,A-,Port Kevin,10.7688115,15.73167,85,No,No,0
+DR0288,Richard Walker,A-,Scottmouth,-64.3025025,-124.863854,26,No,Yes,0
+DR0289,Sarah Wall,B-,South Teresa,82.865287,-92.515253,7,Yes,Yes,0
+DR0290,Michelle Martinez,B+,Burtonstad,-42.2978555,88.027049,44,No,No,0
+DR0291,Tracey Hayes,O+,Mooreshire,-51.8231285,36.693168,90,No,No,0
+DR0292,Ms. Natalie Nelson DVM,O-,Austinberg,-81.2704345,-140.059564,134,Yes,Yes,1
+DR0293,Aaron Brown,A+,Katieburgh,1.9173465,27.819039,75,Yes,Yes,0
+DR0294,Richard Mitchell,AB-,Francofurt,-49.5498235,9.098088,46,No,No,0
+DR0295,Kim Arellano,AB+,Glendafort,-35.8784545,66.396903,112,No,Yes,0
+DR0296,Megan Powell,B-,Baileyberg,14.678784,-69.370889,179,No,Yes,0
+DR0297,Paige Jackson,A+,Jensenshire,55.5346525,-179.801177,60,No,No,0
+DR0298,Kristina Wright,B-,Garciatown,-51.9715515,117.903731,163,No,Yes,0
+DR0299,Glenn Taylor,O+,Morgantown,0.3459285,41.094419,55,Yes,No,0
+DR0300,Rachel Hancock,O-,East Amanda,-56.01911,-153.453367,148,Yes,No,0
+DR0301,Steven Bryant,O-,South Mariatown,4.0584925,124.877728,94,Yes,No,0
+DR0302,Daniel Guerrero,B+,Lake Michaelton,13.5121305,42.505343,42,Yes,Yes,0
+DR0303,Amanda Martinez,A-,East Cody,2.0286455,10.669307,8,Yes,No,0
+DR0304,Carol Smith,B-,Port Michele,74.8702505,1.81186,42,No,Yes,0
+DR0305,Mary Noble,A+,South Mariah,-59.725068,122.014586,51,No,Yes,0
+DR0306,Tiffany Rodriguez,A+,Port Roger,48.6272865,-19.518748,28,Yes,Yes,0
+DR0307,James Tucker,O+,Brittanybury,-32.906801,-167.760591,148,No,No,0
+DR0308,Linda Powell,A+,Lake Kaitlyn,78.018649,164.873703,53,Yes,No,0
+DR0309,Jennifer Barnes,AB-,Joseland,3.980016,-142.126526,104,No,No,0
+DR0310,Alice Tucker,A+,East Nicoleville,78.8833165,-135.853326,123,No,Yes,0
+DR0311,Linda Kramer,A-,Christinetown,57.35897,68.673739,6,Yes,Yes,0
+DR0312,Lori Powers,O+,East Oliviashire,-78.5088105,10.363835,180,No,No,0
+DR0313,Jose Aguilar,O-,South Carlos,71.7954415,-0.296565,114,No,No,0
+DR0314,Renee Kirk,AB+,South Megan,78.64543,-54.85663,38,Yes,Yes,0
+DR0315,Nancy Harris,B+,Thompsonhaven,-56.442265,-42.604501,57,No,Yes,0
+DR0316,John Reynolds,O+,Coreytown,66.89659,-156.178489,103,Yes,No,0
+DR0317,Patricia Wilson,O+,Huertamouth,36.730389,120.1471,54,No,Yes,0
+DR0318,Melissa Collins,B+,Nancyland,-60.709765,-37.206382,152,Yes,No,0
+DR0319,Amy Bond,B+,Richardsmouth,18.450634,120.896427,161,Yes,No,0
+DR0320,Curtis Campbell,AB-,West Colin,6.8201,154.291615,97,No,Yes,0
+DR0321,Amanda Cox,B-,Andersonchester,6.5169265,59.546152,25,Yes,No,0
+DR0322,Jamie Clark,A-,Ryantown,12.176621,51.064946,8,No,No,0
+DR0323,Andrea Knight,O-,Stevenfurt,25.417955,85.475118,98,Yes,Yes,1
+DR0324,Jonathan Baxter,A+,Sueberg,43.6406645,-81.779926,149,Yes,Yes,1
+DR0325,Thomas Parsons,AB-,West Kenneth,28.3403635,-137.309109,167,No,No,0
+DR0326,Christopher Lewis,A+,South Shawnburgh,79.827013,4.137682,14,Yes,Yes,0
+DR0327,Dustin Sparks,AB-,New Maryshire,-22.377143,137.924882,52,No,Yes,0
+DR0328,Tara Mendez,O-,Rachelstad,-22.0384245,83.056429,31,Yes,Yes,0
+DR0329,Chelsea Wilson,A-,Davidmouth,-57.5585035,40.636264,12,Yes,Yes,0
+DR0330,Dr. Carlos Watson III,AB-,Lake Kara,57.325586,-147.203419,32,Yes,Yes,0
+DR0331,Caroline Ward,O+,Joneston,43.933805,-143.451354,98,Yes,Yes,1
+DR0332,Joseph Acosta,O-,Derekmouth,-78.255377,158.016012,111,Yes,No,0
+DR0333,Lauren Harvey,O-,Josephview,-30.729329,-103.174774,117,No,Yes,0
+DR0334,Kathleen Wilson,AB-,East Melissaview,69.471207,-158.795969,120,Yes,No,0
+DR0335,Sarah Anderson,AB+,Robinmouth,-57.487799,-125.254561,119,No,Yes,0
+DR0336,Jennifer Garza,O+,Kevinmouth,87.373369,-168.587418,148,No,Yes,0
+DR0337,Ryan Lopez,AB-,New Roybury,-40.2744255,-14.220952,8,Yes,Yes,0
+DR0338,Leonard Walton,O-,East Laurashire,72.603848,-179.182318,92,Yes,No,0
+DR0339,Michelle Baker,B-,Seanburgh,49.281268,-102.263614,84,No,No,0
+DR0340,Heidi Stewart,A-,Craigborough,33.048068,-174.437722,68,No,Yes,0
+DR0341,Kelly Gilbert,B-,East Bruceburgh,79.322138,165.016825,171,Yes,Yes,0
+DR0342,Gary Torres,B-,Martinshire,21.8546435,-125.915057,127,No,No,0
+DR0343,Cindy Anderson,A-,South Eric,-28.6173145,142.30437,26,Yes,No,0
+DR0344,Michael Lynn,B+,North Gavin,-62.47289,134.560761,110,Yes,No,0
+DR0345,Laura Davis,O+,New Teresa,37.6291925,130.517563,61,Yes,No,0
+DR0346,Jessica Leblanc,AB-,Randolphtown,-54.720921,-125.847348,58,Yes,Yes,0
+DR0347,Steven Wallace,O-,New Anneville,6.3647805,-16.879945,132,Yes,Yes,1
+DR0348,Thomas Walker,A-,Jamestown,-13.246402,-129.594917,18,Yes,Yes,0
+DR0349,John Cruz,O+,Haynesland,-16.685488,-119.886566,119,No,No,0
+DR0350,Robert Peterson,B-,North William,-79.625503,99.665344,122,Yes,Yes,0
+DR0351,Andrew Wright,AB-,East Kayla,65.094356,69.860141,74,Yes,No,0
+DR0352,Chase Park MD,AB+,Christineview,-54.167777,-13.066223,167,No,No,0
+DR0353,Adam Davis,B+,Antoniofurt,44.18583,170.062551,8,No,Yes,0
+DR0354,Timothy Hodge,A+,West Kimberly,81.268113,-109.87476,119,No,No,0
+DR0355,Dawn Bryant,O+,Jeffreymouth,-7.884664,-38.15664,112,Yes,No,0
+DR0356,Mary Ruiz,B-,Port Bradley,43.5900785,-78.709605,96,Yes,Yes,0
+DR0357,Nicholas Murphy,B+,Robertstad,-38.7728805,-59.624577,169,Yes,No,0
+DR0358,Lisa Randall,A+,New Ronald,69.285673,66.454307,40,Yes,No,0
+DR0359,Matthew Smith,AB-,Houstonton,-31.80897,-24.975145,147,No,No,0
+DR0360,Shannon Davies,B+,Smithville,67.8680865,67.819779,33,Yes,No,0
+DR0361,Lisa Weeks,A+,West Heather,-26.5956255,39.405958,133,Yes,Yes,1
+DR0362,Charles Pearson,B+,Mahoneyview,55.2122635,-9.150038,8,No,Yes,0
+DR0363,Joseph Whitehead,B-,New Colleenchester,-49.420878,-7.310299,32,Yes,No,0
+DR0364,Vickie Archer,AB-,New Michaelport,1.8397935,-62.893659,152,Yes,No,0
+DR0365,Laura Martinez,AB-,Mooreshire,61.264436,-45.231145,44,Yes,Yes,0
+DR0366,Patrick Schaefer,O+,Jacobchester,-25.7707365,109.885296,160,No,Yes,0
+DR0367,Bryan Lara,AB-,East Reginaldbury,-73.4904635,-92.165205,23,No,No,0
+DR0368,Spencer Rogers,O-,East Heather,-28.8411695,-39.750905,85,Yes,Yes,0
+DR0369,Monique Wong,B-,Chenmouth,41.079446,66.904118,86,Yes,Yes,0
+DR0370,Gary Hernandez,B+,Amberview,-82.948902,14.905938,159,Yes,No,0
+DR0371,Charles Perez,A+,Johnport,27.5596345,-148.873991,45,Yes,No,0
+DR0372,Clifford Lee,B-,East Jennifer,12.9365405,143.097372,108,Yes,Yes,0
+DR0373,Yolanda Ryan,B-,Hessland,53.8138595,178.483238,45,No,No,0
+DR0374,John Anderson,B-,West Joshuaberg,-33.0118195,52.695057,87,No,No,0
+DR0375,Sherry Vaughn,O+,Tonyfurt,-85.6200985,-76.780592,136,Yes,Yes,1
+DR0376,Monique Gutierrez,O-,Houstonmouth,63.2792755,108.987971,169,No,Yes,0
+DR0377,Corey Wolf,O+,Port Dawn,-35.2224265,90.462878,9,Yes,No,0
+DR0378,Linda Miller,AB+,North Darrenville,60.671282,-72.883993,128,No,No,0
+DR0379,Maria Walls,AB-,East Jamesville,71.5907315,18.95875,87,Yes,Yes,0
+DR0380,Frederick Lucero,A+,East Roymouth,-67.1863385,101.291902,174,Yes,No,0
+DR0381,Corey Ramos,O-,East Larry,58.2347345,51.787535,87,Yes,Yes,0
+DR0382,Breanna Hodge,B-,Aliciashire,-0.4868935,-1.870973,59,No,No,0
+DR0383,Lance Stanton,A+,East Kristystad,31.249106,121.905083,26,No,No,0
+DR0384,Rebecca Dalton,O+,North Patrickfort,-18.291045,-135.669561,39,Yes,Yes,0
+DR0385,Roberta Carr,B-,New Dominiquehaven,-47.51703,107.0274,32,No,No,0
+DR0386,Dylan Page,A+,Cookton,-7.8186005,-135.985779,84,Yes,Yes,0
+DR0387,Laura Boyd,B+,Sototon,-89.684047,-162.624694,139,No,Yes,0
+DR0388,Colleen Bates,AB+,South Carrietown,25.1958645,-34.063912,38,No,Yes,0
+DR0389,Matthew Roberts,B-,Robinview,-29.623813,1.659786,15,Yes,No,0
+DR0390,Chase Brown,A+,Lopezburgh,29.6386055,-69.757268,167,No,No,0
+DR0391,Andrew Sloan,A+,East Rachelbury,14.8375535,-30.163482,139,Yes,Yes,1
+DR0392,Mark Lopez,O-,Lake Matthew,-50.0659445,140.559526,29,No,No,0
+DR0393,Ricky Underwood,O+,Fosterfort,-36.911562,-23.973537,100,Yes,No,0
+DR0394,Miguel Williams,A+,South Robert,50.529562,-88.589953,0,Yes,No,0
+DR0395,Ryan Cohen,AB+,Laurashire,41.0900755,-41.348728,4,Yes,Yes,0
+DR0396,Maria Harris,O-,Williamsbury,-31.494913,-112.913076,102,No,Yes,0
+DR0397,Alex Collins,A+,Greenville,55.513896,-152.223887,146,No,Yes,0
+DR0398,David White,A+,Laraton,-19.450293,-48.471604,125,No,Yes,0
+DR0399,Lindsey Mack,B+,Mannmouth,-30.0623865,114.506571,62,Yes,No,0
+DR0400,Margaret Wallace,AB+,South Timothybury,39.175494,146.06586,77,No,Yes,0
+DR0401,Joseph Lam,B-,Oconnorville,-33.672199,-28.838284,44,Yes,No,0
+DR0402,Shannon Goodwin,B-,West Elizabeth,61.6629535,107.112238,49,Yes,Yes,0
+DR0403,Lori Cooper,O+,Port Amandafort,89.3721005,29.435023,139,Yes,No,0
+DR0404,Erin Cowan,AB+,Cainside,-80.8832415,-132.357531,151,Yes,Yes,0
+DR0405,Charles Leon,B+,Waltonburgh,85.0740165,20.19081,17,Yes,Yes,0
+DR0406,Brian Lopez,A-,Sheenafurt,-56.382113,61.066784,120,Yes,No,0
+DR0407,Peter Walter,B+,Hernandezview,25.4358,142.926362,153,Yes,Yes,0
+DR0408,Mike Hanna,AB+,Aguilarhaven,3.562696,-39.500548,1,No,No,0
+DR0409,Emma Elliott,O-,Zacharytown,84.750631,174.152853,21,Yes,No,0
+DR0410,Joseph Brooks,A+,Port Jonathan,-12.463171,139.408562,175,No,Yes,0
+DR0411,Noah Cruz,B-,Port Zoeberg,26.9911895,-101.458696,66,No,No,0
+DR0412,Diana Wilson,AB+,East Marie,71.632212,-139.572264,102,Yes,Yes,0
+DR0413,Rebecca James,A-,New Ronaldchester,18.3286165,-15.404925,69,No,Yes,0
+DR0414,Beverly Hanson,AB-,North Jodiberg,67.582333,147.929659,69,Yes,Yes,0
+DR0415,Ann Middleton,B+,Port Daniel,22.9377855,-163.060687,175,Yes,Yes,0
+DR0416,Steven Daniels,AB-,Melissamouth,6.4685805,-49.202426,81,No,Yes,0
+DR0417,Michael Woods,A-,Reedfurt,-55.7168195,-88.435808,117,No,No,0
+DR0418,Susan Gutierrez,A+,Williamville,84.080475,-8.34931,53,No,No,0
+DR0419,Chad Webb,AB+,South Nicole,-8.086294,85.825842,116,Yes,Yes,0
+DR0420,Terri Hunt,A+,Port Austintown,-17.4739855,42.610456,124,No,Yes,0
+DR0421,Kayla Santos,AB+,North Jacquelineview,-34.758437,38.842995,115,Yes,Yes,0
+DR0422,William Gonzalez,AB-,Jeremyton,-11.8121785,71.607938,36,No,No,0
+DR0423,Kristie Harris,A-,Davidsonville,61.85952,-61.593311,133,Yes,No,0
+DR0424,Brandy Cardenas,AB+,Chapmanborough,41.267941,-102.496304,173,No,No,0
+DR0425,Jacqueline Morales,AB+,Rogersberg,-55.076604,-47.473281,48,Yes,Yes,0
+DR0426,Daniel Escobar,AB-,South Ronaldshire,-66.4379735,-162.057199,165,No,Yes,0
+DR0427,Heather Kaufman,AB+,Nathanielmouth,2.960742,43.186825,62,Yes,Yes,0
+DR0428,Rebecca Johnson,AB-,Diazview,68.0779205,135.7725,177,No,Yes,0
+DR0429,Kevin Parsons,B-,Port Andrew,6.790378,-57.051421,33,Yes,Yes,0
+DR0430,Cynthia Henderson,AB+,New Gary,-80.5574825,74.205846,21,No,Yes,0
+DR0431,Jennifer Parsons,AB+,New Adamland,49.7149075,24.432828,84,Yes,No,0
+DR0432,Deborah Boyd DVM,AB+,Samanthaton,12.271257,-6.461782,173,Yes,No,0
+DR0433,Cory Chaney,O+,Castroborough,50.7640215,-38.511004,78,No,Yes,0
+DR0434,John Williams,B+,South Susan,-48.8653585,-123.276936,111,No,Yes,0
+DR0435,Bradley Park,AB+,New Matthewshire,-87.7025995,-35.201904,40,Yes,Yes,0
+DR0436,Angela Williams,A-,Bakerburgh,65.466161,-84.246462,140,Yes,Yes,1
+DR0437,Jason Morales,O+,Port Julie,-68.9834405,-166.957054,0,No,No,0
+DR0438,Karen Sparks,O+,Lake Luke,65.7776725,-58.04412,178,No,No,0
+DR0439,Brandon Brooks,O+,South Anthony,-86.798244,-1.1504,73,Yes,No,0
+DR0440,Laura Porter,O-,Chungbury,-72.2418265,155.355931,118,Yes,No,0
+DR0441,Christine Green,A+,Brendanville,-49.2368795,57.789389,108,Yes,Yes,1
+DR0442,Frank Mclaughlin,B-,Rachelborough,-87.052384,115.473518,10,No,No,0
+DR0443,Tanner Kelly,O+,Gallagherville,24.5368685,83.656353,7,Yes,Yes,0
+DR0444,Ana Marks,AB-,North Christine,-79.887299,126.674827,45,No,Yes,0
+DR0445,Yolanda Leach,A-,Lake Brandonburgh,-49.271306,5.622469,179,Yes,No,0
+DR0446,Kristi Macias,O-,Jonesburgh,-62.280306,42.573488,10,No,Yes,0
+DR0447,Tony Reyes,A+,Andrewland,-65.0390885,-57.376363,137,No,No,0
+DR0448,James Durham,B-,West Stephen,-44.220671,17.087546,148,Yes,No,0
+DR0449,April Leblanc,O-,Murphyside,38.091365,50.232027,38,Yes,No,0
+DR0450,Steven Cooper,AB-,Sandersland,-18.8958,-87.830098,59,Yes,No,0
+DR0451,Amber Jones,AB+,Port Terrance,-7.74666,17.697136,106,Yes,Yes,0
+DR0452,Mark Henson,O+,Port Markbury,21.5407985,-33.341266,89,Yes,Yes,0
+DR0453,Benjamin Harris,AB-,East Jennifer,-31.0951215,66.953847,82,Yes,Yes,0
+DR0454,Julie Williamson,AB-,Melissaland,85.7022215,-125.249027,90,Yes,No,0
+DR0455,Robert Armstrong,AB+,Port George,88.252634,-6.288548,162,No,No,0
+DR0456,Shannon Davis,B-,Dennisland,-12.8595005,166.869389,133,Yes,No,0
+DR0457,Tiffany Turner,AB+,South Tinatown,-4.6350915,-99.867774,177,Yes,Yes,0
+DR0458,James Ford,B+,Cristianhaven,81.5009195,-75.474918,110,Yes,Yes,0
+DR0459,Jon Stewart,A+,West Aliciahaven,-80.9014155,105.817528,101,No,No,0
+DR0460,Rita Barnes,A+,Port Henryton,74.4246775,48.793695,39,Yes,Yes,0
+DR0461,Christopher Jackson,A-,Millerview,2.1883595,-6.698137,35,Yes,Yes,0
+DR0462,Margaret Harvey,B-,Spencerville,53.6045325,127.426331,50,No,Yes,0
+DR0463,Miss Peggy Reyes,B+,Howetown,-61.9769455,-81.81551,34,No,No,0
+DR0464,Jessica Lee,A+,East Michaelfort,36.5445095,135.320631,79,No,No,0
+DR0465,Gwendolyn Wilson,A-,Ramirezport,86.958794,-127.998185,79,Yes,No,0
+DR0466,Courtney Johnson,O+,East Gregory,53.956561,-179.71435,114,No,Yes,0
+DR0467,Ashley Ross,O-,Shepardchester,0.6279575,52.809512,88,No,No,0
+DR0468,Natalie Moran,O-,Deanport,-70.265934,9.999292,1,No,Yes,0
+DR0469,Eric Dickerson,A-,Hebertshire,8.43183,-94.126382,106,No,Yes,0
+DR0470,Timothy Stewart,B-,Berryland,-0.8339685,70.986512,38,Yes,No,0
+DR0471,Aaron Jackson,AB+,Nelsonfort,79.7951105,117.037415,6,No,No,0
+DR0472,Joseph Trujillo,O-,New Nathanborough,-78.1831485,-151.009795,59,No,No,0
+DR0473,Ryan Smith,A-,Christopherberg,-8.6347125,-33.938823,4,No,No,0
+DR0474,Shawn Hernandez,O+,South Jonathan,-48.7011285,22.989345,81,No,No,0
+DR0475,Amanda Jones,A-,Taylorbury,58.82347,65.034321,170,Yes,Yes,1
+DR0476,Michelle Vargas,O-,New Miguel,85.6729445,5.973093,84,Yes,Yes,0
+DR0477,Joseph Smith,A+,West Brandonmouth,-50.345021,-38.589369,65,Yes,Yes,0
+DR0478,Randall Chandler,O-,North Joelhaven,41.5729525,49.771294,137,Yes,No,0
+DR0479,Chad King,O-,Carrollstad,31.57052,-54.908239,72,No,No,0
+DR0480,Kimberly Hutchinson,AB-,Ryanfort,-57.660613,-127.68422,69,No,No,0
+DR0481,John Williamson,A+,North Bethanyborough,53.6642105,14.631577,118,Yes,No,0
+DR0482,Christopher Valencia,B-,North Gregory,80.5080345,-27.594125,49,Yes,No,0
+DR0483,Catherine Rice,O+,Martinezburgh,-1.9421685,-158.351824,14,Yes,Yes,0
+DR0484,Sophia Peterson,O-,Port Kenneth,21.2786655,-179.116563,64,Yes,No,0
+DR0485,Jennifer Ferguson,O+,Elizabethview,37.9594105,-73.35424,151,Yes,Yes,1
+DR0486,Jessica Garcia,O-,New Omartown,72.33484,178.408174,69,No,Yes,0
+DR0487,Wayne Lowe,AB+,Port Michael,-54.8539885,-17.492398,138,Yes,No,0
+DR0488,George Phillips,A+,East Jessicafurt,55.1623935,-16.945773,128,No,Yes,0
+DR0489,Lisa Chavez,O+,East Daniellefurt,-31.546665,145.170622,136,Yes,No,0
+DR0490,Donna Medina,AB+,South Charlestown,-22.61552,-160.294992,45,No,No,0
+DR0491,Troy Smith,A-,Lake Victoriahaven,85.8911345,-0.181555,176,No,No,0
+DR0492,Tracy Perkins,AB-,North Larryhaven,-33.2374925,165.802043,63,Yes,Yes,0
+DR0493,Timothy Blake,B-,Port Tammyborough,-25.185222,30.001536,50,Yes,Yes,0
+DR0494,Diane Hoover,AB+,New Jefferymouth,-63.03015,-168.325547,104,No,Yes,0
+DR0495,Sara Blake,AB-,Port Miranda,0.2510685,-2.534566,71,Yes,No,0
+DR0496,Janet Pruitt,O+,East William,50.620924,156.47423,53,Yes,No,0
+DR0497,Cynthia Ritter,O+,North Luisview,-69.4355125,94.1869,61,No,No,0
+DR0498,Bill Campbell,O-,Valerieburgh,-54.5933565,6.625909,38,No,Yes,0
+DR0499,Aaron Johnston,AB+,Gentryview,-70.5924855,3.36406,146,No,No,0
+DR0500,Deborah Hansen,B+,Kellymouth,13.975029,-35.7324,100,Yes,No,0
+DR0501,Martin Bailey,A+,Port Keith,73.474037,-92.999777,40,No,Yes,0
+DR0502,Matthew Jones,A+,East Michelemouth,-15.3930435,88.157786,133,Yes,Yes,1
+DR0503,Katherine Sanchez,B+,Lauraborough,-10.4118605,110.174065,89,Yes,Yes,0
+DR0504,Tony Payne,O-,North Jon,63.596433,-119.369942,43,Yes,No,0
+DR0505,Julia Taylor,O+,Brookeshire,79.290168,77.954062,27,No,Yes,0
+DR0506,Beth Davis,B+,Joshuaborough,30.63584,77.059979,41,No,No,0
+DR0507,Jeffrey Lane,A-,Jasonton,3.4080905,20.802175,46,No,Yes,0
+DR0508,Travis Anderson,O+,Mindyshire,44.188871,110.18545,49,No,Yes,0
+DR0509,Thomas Powell,A-,North Diane,-46.83041,102.488132,178,Yes,No,0
+DR0510,Jeremy Davis,B+,Benjaminside,69.096525,97.614624,15,No,No,0
+DR0511,Benjamin Brooks,AB-,Yorkview,24.1427965,69.852815,53,No,Yes,0
+DR0512,Heather Best,O+,Port Royview,55.9901795,-10.440008,180,Yes,No,0
+DR0513,Julie Fox,AB-,Lake Cynthiamouth,48.6985295,114.053702,70,Yes,Yes,0
+DR0514,Jessica Hughes,AB-,Nolanport,-61.7409485,113.653216,52,Yes,No,0
+DR0515,Laura Wilson,O-,North Antonioside,-5.94555,-66.680882,72,Yes,No,0
+DR0516,Michelle Conner,AB-,Caldwellstad,86.1439375,35.688364,18,No,No,0
+DR0517,Rachel Cook,AB+,East Laurenberg,22.268353,71.928901,169,Yes,Yes,0
+DR0518,Garrett Romero,O-,New Stephenshire,-45.412029,-53.810745,48,Yes,No,0
+DR0519,Lindsey Weber,O+,East Tammyfurt,5.946347,-47.382628,14,No,Yes,0
+DR0520,Mrs. Krystal Shaffer,O-,Nguyenfort,-53.0731115,-128.746971,143,Yes,No,0
+DR0521,Heather Williams,A+,Zacharyview,5.92953,40.743665,85,No,No,0
+DR0522,Jared Moore,B-,North Dennis,71.126948,-136.822462,14,Yes,Yes,0
+DR0523,Shelby Perez,O-,Nicholasmouth,-30.9508565,-86.759379,174,Yes,No,0
+DR0524,Andrew Kim,O-,North William,-2.3186955,-146.413917,159,No,Yes,0
+DR0525,Jay Lin,B+,North Abigail,-39.9326255,-87.027756,43,No,No,0
+DR0526,James Maldonado,B+,Higginsberg,-86.8567565,-73.19147,11,No,Yes,0
+DR0527,Christine Everett,A+,Lake Sheilaside,-66.923119,9.905491,156,Yes,Yes,1
+DR0528,Emily Gutierrez,A+,Port Connie,21.0069685,-143.664648,22,No,No,0
+DR0529,Olivia Ferguson DDS,AB-,Turnerland,-8.967549,140.329379,89,Yes,Yes,0
+DR0530,Mr. Timothy Morris,O-,Cruzfort,85.4646435,-133.407983,148,No,Yes,0
+DR0531,Hannah Perry,AB+,East Martinland,-74.8666455,50.763402,57,Yes,Yes,0
+DR0532,Kevin Poole,A+,East Amber,-78.997192,56.794535,4,Yes,Yes,0
+DR0533,Mrs. Megan Ross,AB+,Schultzfort,63.5210675,165.655178,137,No,No,0
+DR0534,Madison Miller,A-,South Austinview,-65.4731665,-32.009861,70,No,No,0
+DR0535,Lisa Bryan,O-,Wyattview,10.383741,35.311248,18,Yes,No,0
+DR0536,Kimberly Johnson,A-,Normanstad,-67.018112,62.600538,8,No,Yes,0
+DR0537,Stacey Brooks,AB-,North Carlamouth,-47.462652,53.921489,37,Yes,Yes,0
+DR0538,Toni Parsons,O-,West Maria,-39.1745915,149.638788,17,No,No,0
+DR0539,John Salas,A+,Port Douglasberg,14.303519,-54.592739,144,Yes,Yes,1
+DR0540,Jennifer Olson,B+,West Brooke,44.2455505,16.304215,155,No,Yes,0
+DR0541,Mary Rice,A+,Aguirreshire,-71.0683675,-55.466939,52,Yes,Yes,0
+DR0542,Roy Wilson,O+,Haneyhaven,25.132886,125.649953,76,Yes,No,0
+DR0543,Belinda Jones,O+,Andersonbury,52.131723,32.716573,12,Yes,No,0
+DR0544,Sarah Craig,A+,East Randymouth,7.867097,-58.293355,180,Yes,No,0
+DR0545,Kimberly Fisher,A-,Carlport,61.793828,4.400003,174,Yes,No,0
+DR0546,Craig Mooney,O+,Port Raymondhaven,-44.0409705,-44.653877,157,Yes,Yes,1
+DR0547,Jennifer Moon,O+,Victoriamouth,-76.6705125,-32.836948,90,Yes,Yes,0
+DR0548,Cheryl Beasley,AB+,Hoffmanton,58.5821525,36.358866,142,Yes,Yes,0
+DR0549,Kristin Patterson,O+,Craigfort,-89.1244925,174.199429,86,No,No,0
+DR0550,Jessica Gardner,O-,Lake Anthonyton,9.926479,111.787436,110,Yes,No,0
+DR0551,Yvonne Gray,B-,Flemingport,-55.5715675,119.248295,37,No,No,0
+DR0552,Robert Guerrero,B-,Lake Justinstad,-43.284362,-69.099558,9,No,No,0
+DR0553,Makayla Douglas,B-,Simmonshaven,-60.7570025,133.903863,85,No,No,0
+DR0554,Christopher Alvarez,B-,Drakefort,11.681743,-59.742896,144,No,Yes,0
+DR0555,Dr. Timothy Hernandez,O+,Wrightport,-1.075368,-90.159737,60,No,Yes,0
+DR0556,Dr. Tara Hansen,B-,Port Scottberg,-76.174461,-54.487388,94,Yes,No,0
+DR0557,Edward Meyer,A+,Nguyenburgh,3.8514595,163.489574,74,Yes,Yes,0
+DR0558,Derrick Schroeder,O-,New Brandon,-13.5107505,-153.610884,3,Yes,Yes,0
+DR0559,David Higgins,AB-,New William,14.8876725,-149.522612,161,Yes,Yes,0
+DR0560,John Anderson,B+,Port Aaronborough,-53.6726855,56.179208,60,Yes,Yes,0
+DR0561,Kyle Garcia,B-,North Stacybury,-80.453744,6.050802,33,No,No,0
+DR0562,Kyle Franco,A-,Tarafort,-57.667499,-115.766077,126,No,Yes,0
+DR0563,Judy Elliott,B-,Joshuastad,-65.1724735,-25.383525,166,No,Yes,0
+DR0564,Jonathan Abbott,B-,South Sandraview,30.3246375,129.487088,155,No,Yes,0
+DR0565,Julia Acosta,O-,Vargasstad,-12.0690795,-164.995806,160,No,Yes,0
+DR0566,Ralph Cox,B-,Michaelton,11.252641,48.992179,80,No,No,0
+DR0567,Ryan Krause,O+,East Tylerborough,44.7809275,-148.282304,71,No,Yes,0
+DR0568,Lisa Smith,O+,Pittsland,11.821091,88.788582,73,Yes,Yes,0
+DR0569,Jeffrey Garcia,O-,Lake Kathy,31.3078765,179.091448,40,Yes,No,0
+DR0570,Sarah Rodriguez,O-,East Joshuatown,-81.572435,-7.11487,1,Yes,No,0
+DR0571,Fred Parker,B+,Sandraberg,83.314809,162.138685,13,Yes,Yes,0
+DR0572,Vanessa Washington,AB-,Sandersfurt,8.846745,113.681775,20,No,No,0
+DR0573,Taylor Martinez,A+,Harriston,-32.286224,-52.963407,39,No,No,0
+DR0574,Sally Greene,B+,Danielberg,-88.1710845,-25.203744,95,Yes,No,0
+DR0575,Vincent Mason,B-,Torresport,60.750634,-173.999354,70,Yes,Yes,0
+DR0576,Michael Edwards,A+,Jensenland,-65.05453,46.379959,75,No,No,0
+DR0577,Patricia Gilbert,A-,South Barbaraview,77.8411725,154.215602,7,No,Yes,0
+DR0578,Jane Ruiz,O+,Port Chad,-64.108801,-15.479941,94,Yes,Yes,1
+DR0579,Jennifer Fowler,B-,Chadfurt,38.1884525,12.142303,3,No,No,0
+DR0580,Michelle Turner,O-,South Kylebury,89.247484,-40.975031,163,No,No,0
+DR0581,Anna Carter,AB+,Perezstad,-38.7080435,33.564338,145,Yes,No,0
+DR0582,Jillian Johnson,AB+,East Tanya,66.532235,-129.156815,166,Yes,No,0
+DR0583,Anne Sanchez,A+,Gibsonmouth,-87.094681,72.905538,47,Yes,No,0
+DR0584,Christopher Newton,O+,Richardchester,-63.434188,-172.291805,144,No,Yes,0
+DR0585,Cassandra Bailey,AB+,Wrightview,-88.060787,54.842553,137,Yes,No,0
+DR0586,Chase Lopez,O+,West Monicaview,3.955752,160.581135,36,No,Yes,0
+DR0587,Courtney Ruiz,AB-,North Molly,-27.9623665,103.404049,151,Yes,No,0
+DR0588,Dominique Durham,O+,Lake Lee,-5.55762,102.482597,85,No,No,0
+DR0589,Dylan Li,AB+,Lake Lynn,-8.0879905,142.812328,38,Yes,No,0
+DR0590,Jimmy Coleman,O-,Denisechester,76.097848,70.962435,89,Yes,No,0
+DR0591,Mary Andrews,AB+,West Brittanyburgh,-8.936989,78.685254,26,Yes,No,0
+DR0592,David Mcdonald,O+,Wilsonstad,-22.2412775,-37.239516,48,Yes,No,0
+DR0593,Valerie Faulkner,O+,Emmaberg,28.7044675,133.703585,83,No,Yes,0
+DR0594,Austin Miller,AB-,South Christinastad,-5.1256245,119.322789,11,No,No,0
+DR0595,Jacob Williams,AB-,Port Katherine,-26.916752,-37.312642,43,Yes,No,0
+DR0596,Cameron Fisher,AB+,Josephstad,29.912154,144.183057,30,No,Yes,0
+DR0597,Brandon Campbell,O-,New Johntown,-75.7998275,-137.583915,70,Yes,No,0
+DR0598,Laura Jones,AB+,Timothyfort,39.411122,-129.23832,33,No,Yes,0
+DR0599,William Scott,A+,West Davidville,21.511671,95.074281,154,No,Yes,0
+DR0600,Randall Jordan,O-,West Maryshire,69.687362,-3.692029,52,No,Yes,0
+DR0601,Jason Wood,A+,East Pamela,-1.2646445,-83.306364,88,No,Yes,0
+DR0602,Alexis Wood,AB+,Erinshire,-1.145048,83.360357,92,Yes,Yes,0
+DR0603,Lisa Garcia,B-,Wagnerfort,16.4439425,76.508492,149,No,Yes,0
+DR0604,Rhonda Robinson,B+,East Tiffanyshire,85.4034135,152.562558,143,No,No,0
+DR0605,Cathy Taylor,AB-,East Karenside,-16.681954,-7.183515,28,Yes,Yes,0
+DR0606,Nathan Smith,AB-,Mendozaside,-74.334469,135.288505,35,Yes,No,0
+DR0607,Chelsea Spencer,B+,East Sarah,72.907018,-143.815121,32,No,Yes,0
+DR0608,Beth Gibson,B-,West Amandatown,-77.551735,48.853791,121,Yes,No,0
+DR0609,Sheila Santos,A+,Veronicamouth,77.249275,-79.987323,26,Yes,Yes,0
+DR0610,Aaron Stanton,B-,West Scott,-64.017116,32.108058,33,No,No,0
+DR0611,John Huff,AB+,New Trevor,37.437938,-4.496028,53,Yes,Yes,0
+DR0612,Jennifer Arroyo,AB-,New Stephen,-88.201511,50.272737,160,No,Yes,0
+DR0613,Tara Frazier,O-,West Christyfort,65.2270805,119.480743,109,Yes,No,0
+DR0614,Michael Cisneros,A+,West Brettside,-56.0647095,-152.592624,12,No,Yes,0
+DR0615,Miranda Harris,B+,North Kenneth,-29.1905085,3.508753,23,Yes,No,0
+DR0616,Briana Gutierrez,O-,East Robertport,16.453843,-42.168412,25,Yes,Yes,0
+DR0617,Elizabeth Fox,AB+,Vernonbury,-51.4916995,-2.86033,34,No,Yes,0
+DR0618,Mark Parker,B-,Rebeccamouth,42.59316,144.123297,65,No,No,0
+DR0619,Mr. Edward Dawson,AB-,Port Jessicashire,41.775763,52.434508,154,No,Yes,0
+DR0620,Timothy Rodriguez,AB-,West Angelaland,-82.531707,85.844578,172,Yes,Yes,0
+DR0621,Seth Jones,B+,Juliaside,-73.5257535,-51.258807,147,No,Yes,0
+DR0622,Deborah Hart,B+,Dylanville,-25.370242,-34.657296,62,No,No,0
+DR0623,Tyler Perry,B+,Christinamouth,-59.772787,-122.643747,25,Yes,No,0
+DR0624,Lindsey Middleton,AB+,Hartchester,-27.1552165,-78.888072,145,No,No,0
+DR0625,Dr. Jeffery Bates DDS,AB+,New Joshua,-19.4126835,118.382374,71,Yes,Yes,0
+DR0626,Michael Bishop,O+,Tylerton,87.6738455,144.008499,86,Yes,Yes,0
+DR0627,Jacob Avila,AB-,Jonesstad,56.731467,-34.64107,70,No,No,0
+DR0628,Ann Patton,AB-,East Samuel,62.712121,29.763227,36,Yes,No,0
+DR0629,James Brewer,A-,South Shannon,85.392789,-106.447351,153,No,Yes,0
+DR0630,Gerald Porter,O+,Garciatown,-4.07672,-56.301333,2,Yes,No,0
+DR0631,Thomas Brooks,O-,North Crystal,-17.8025825,143.312851,115,No,No,0
+DR0632,Steven Nguyen,O-,New Erinport,-3.5031585,-40.630782,11,Yes,Yes,0
+DR0633,Lisa Perez,AB+,North Jeffreyberg,68.130042,-27.09628,138,No,Yes,0
+DR0634,Michael Hunter,A-,Justinberg,-9.4509125,-12.355518,156,Yes,No,0
+DR0635,Casey Murphy,B-,Rileymouth,-22.354367,-158.945265,117,Yes,No,0
+DR0636,Michelle White,B+,Mullenborough,80.5692265,-170.957983,131,No,No,0
+DR0637,Amanda Anderson DDS,AB+,Daltonfort,50.8831225,73.813275,126,No,Yes,0
+DR0638,Ashley Jackson,B-,North Jaredtown,18.839424,-51.342998,66,No,Yes,0
+DR0639,Edwin Martinez,B+,Hendersonland,66.197462,112.614337,28,No,Yes,0
+DR0640,Steven Rose,AB+,Lake Samantha,46.7486835,-142.358102,119,No,Yes,0
+DR0641,Nicholas Nichols,O-,South David,-48.7825985,1.544996,143,Yes,No,0
+DR0642,Tammy Benjamin,A-,New Williammouth,45.437824,-10.538394,19,Yes,Yes,0
+DR0643,Sara Smith,B-,Port Nathaniel,-59.969556,-65.718114,104,No,No,0
+DR0644,Debbie Horne,AB-,South Andrea,81.3211625,35.866145,137,No,Yes,0
+DR0645,Jeff Washington,O-,Port Paula,58.0648685,153.801405,57,Yes,Yes,0
+DR0646,Kyle Ross,B-,Jamestown,-12.324586,66.807592,154,No,No,0
+DR0647,Diana Marshall,AB-,North Josephborough,-5.7122065,75.046027,20,No,No,0
+DR0648,Abigail Jones,B-,Leachfort,-33.2774095,-137.42614,101,Yes,No,0
+DR0649,Jennifer Robinson,A+,West Charlenefort,-64.2092225,-24.764803,46,Yes,Yes,0
+DR0650,Lee Lynch,AB+,East Lindsay,78.877729,103.354703,75,Yes,Yes,0
+DR0651,Garrett Parker,AB-,East Lisashire,-29.63086,-96.624887,159,Yes,No,0
+DR0652,Samantha White,A+,Lyonsside,53.676075,-72.883728,80,Yes,No,0
+DR0653,Jason Holland,B+,Lynnstad,-15.6399195,71.699977,147,No,No,0
+DR0654,Terry Davis,O+,North Jose,38.326724,102.223551,12,Yes,Yes,0
+DR0655,William Freeman,B-,Port Eric,-54.71139,-129.615889,147,Yes,Yes,0
+DR0656,Maureen Coffey,O+,South Zachary,-48.957402,39.633139,50,Yes,No,0
+DR0657,Michael Erickson,O+,Briannaview,85.405508,155.235458,20,No,No,0
+DR0658,Kelly Brown,A-,South Mikebury,-49.5053685,-65.345966,60,Yes,Yes,0
+DR0659,Jeffery Nelson,O+,Coopermouth,-27.5000045,120.10633,115,No,No,0
+DR0660,Ralph Lopez,A-,South James,-85.9017105,-81.677968,156,No,Yes,0
+DR0661,Patricia Walton DDS,A+,Butlerstad,-37.4968465,65.559192,75,No,No,0
+DR0662,Pamela Clark,AB-,Andersonburgh,-77.5931775,-77.966211,64,Yes,Yes,0
+DR0663,Dorothy Hunter,A-,Port Johnfurt,-68.5742755,-68.524402,77,Yes,Yes,0
+DR0664,Sherry Chen,O+,Port Susanfort,-15.1285205,-13.549167,41,Yes,No,0
+DR0665,Alexis Bennett,AB-,Lake Jacob,20.425226,-98.209792,13,Yes,Yes,0
+DR0666,David Macdonald,AB+,Monroeshire,69.9347475,121.866122,52,Yes,No,0
+DR0667,Jennifer Moore,B+,West Nancy,51.776821,87.501751,93,No,No,0
+DR0668,Catherine Ford,A+,South Kathryn,4.1356475,106.16357,166,Yes,No,0
+DR0669,Diane Key,B-,Kristenburgh,87.4021805,99.147201,24,Yes,No,0
+DR0670,Miguel Carr,O-,South Garymouth,-37.656532,-9.117999,32,No,Yes,0
+DR0671,Dale Adams DDS,B+,Wayneton,18.862823,-59.35811,112,Yes,No,0
+DR0672,Alexis Sanchez MD,B+,Maxwellside,6.6806705,25.447331,35,No,No,0
+DR0673,Martha Sharp,B-,Timothyburgh,51.306329,177.827536,51,Yes,No,0
+DR0674,Amy Smith,O-,East Michael,-89.453456,76.132259,161,Yes,No,0
+DR0675,Deanna Vargas,AB+,South Carlaville,9.381723,-139.510848,82,No,Yes,0
+DR0676,Melissa Johnston,A-,Lake Anthonyfort,60.4590175,112.654932,120,No,Yes,0
+DR0677,Sherry Burton,A-,Sanchezstad,-9.4422435,154.764503,131,Yes,Yes,1
+DR0678,Jason Haynes,A-,East Christineview,30.186414,-97.66811,40,Yes,No,0
+DR0679,Joyce Williams,A-,West Robert,82.726123,118.559456,135,Yes,Yes,1
+DR0680,Anthony Marquez,A+,New Ashlee,36.539584,-29.010082,178,No,Yes,0
+DR0681,Taylor Owens,O-,Laneport,-19.2499425,-30.900341,29,No,No,0
+DR0682,Linda Mills,AB-,East Elizabeth,86.258047,124.239307,89,No,Yes,0
+DR0683,Jeffrey Schultz,AB+,Melissastad,73.2308445,-48.594899,76,No,Yes,0
+DR0684,Jamie Smith,B+,Jaredside,-72.9623805,-51.513554,92,No,No,0
+DR0685,Bradley Baird,B+,Scottview,-82.0809665,89.835561,47,No,Yes,0
+DR0686,Stephen Bruce,O-,Pattersonchester,-38.0264,-159.407282,20,No,No,0
+DR0687,Shannon Cole,B+,Contrerasborough,65.635439,-171.246036,64,No,No,0
+DR0688,Zachary Dickerson,O-,West Robertville,-85.130416,-169.62369,109,Yes,No,0
+DR0689,Eric Ward,AB+,Jennyview,-1.1485465,147.478516,11,No,Yes,0
+DR0690,John Boyd,A+,Lake Marc,50.804612,135.203883,71,Yes,No,0
+DR0691,Travis Richmond,B+,Stoutport,-56.6105245,77.601182,161,Yes,Yes,0
+DR0692,Jane Snow,A-,Kellyfurt,83.8957475,153.519919,36,Yes,No,0
+DR0693,Mark Young,O-,South Wendy,7.9568655,110.258744,145,No,No,0
+DR0694,Maurice Smith,O-,New Harryshire,18.256254,112.012638,152,No,No,0
+DR0695,Jeffrey Carey,O+,East Austinhaven,49.269682,-132.912619,3,No,No,0
+DR0696,William Hernandez,O-,West Bethany,85.1053955,-7.507876,99,No,Yes,0
+DR0697,William Meyers,B+,New Dawn,-50.058063,111.96656,11,Yes,No,0
+DR0698,Christine Davis,AB-,Rebeccaville,-49.429267,-6.05099,153,No,No,0
+DR0699,Melissa Lee,A-,Lutzshire,31.846235,-128.576685,107,No,Yes,0
+DR0700,William Jackson,O+,Carmenbury,-67.365204,-109.912757,73,Yes,Yes,0
+DR0701,Elizabeth Bates,AB-,Port Donald,-51.172095,88.329263,154,No,Yes,0
+DR0702,Taylor Baker,A-,South Kevinborough,-22.450937,-113.815339,16,Yes,No,0
+DR0703,Susan Jenkins,A-,West Dylanmouth,32.2063645,-81.865025,4,No,Yes,0
+DR0704,Kim Ellis,A+,Jacobville,53.668328,86.715775,178,Yes,No,0
+DR0705,Mr. Patrick Walker,B-,Port Frank,-71.655878,-63.246933,137,Yes,No,0
+DR0706,Jennifer Williams,B+,Bryantville,-74.5283815,33.14386,100,No,Yes,0
+DR0707,Frank Skinner,AB+,East Tammieshire,18.3444215,-126.712312,54,No,Yes,0
+DR0708,Tiffany Kaiser,O+,South Robertton,-82.614535,15.353064,28,No,No,0
+DR0709,Diana Skinner,O+,Garyfort,14.572623,-25.438204,155,No,No,0
+DR0710,Michael Hamilton,B+,Thomasstad,4.822086,35.716771,65,Yes,Yes,0
+DR0711,Kari Burton,B-,Mackenzieview,-67.8710565,89.690707,87,Yes,Yes,0
+DR0712,Lynn Leach,AB+,North Heidi,23.4924285,60.10106,171,No,Yes,0
+DR0713,Kristie Mills,AB-,Port Rebekah,-69.109999,-151.779091,14,Yes,Yes,0
+DR0714,Lori Jackson,B-,North Theodore,15.1718305,52.83362,133,Yes,Yes,0
+DR0715,Sandra Goodwin,O+,Port Madisonbury,56.023833,-167.123555,19,No,No,0
+DR0716,Ashley Sellers,AB+,Michelleport,-18.3852335,-174.858118,91,No,No,0
+DR0717,James Guzman,AB+,Mcdanielland,-28.0424445,171.963785,115,No,No,0
+DR0718,Isaac Barnes,A+,Joshuashire,68.9343845,-55.87681,119,No,Yes,0
+DR0719,Bill Owens,O-,Robertmouth,21.5875585,-101.918647,77,Yes,No,0
+DR0720,Alicia Hernandez,AB+,Karenport,-13.156288,37.127019,80,Yes,No,0
+DR0721,David Roberts,B+,New Dana,-73.248146,60.44033,46,No,No,0
+DR0722,Thomas Williams,B-,North Victor,4.8334425,104.387314,173,Yes,Yes,0
+DR0723,Michael Rodriguez,O+,Collinston,-48.135892,160.3942,101,Yes,No,0
+DR0724,Carla Hart,O+,New William,-25.707133,-37.512126,33,Yes,No,0
+DR0725,Jacob White,B+,New Brendanmouth,-76.3499295,-99.032553,97,Yes,Yes,0
+DR0726,Michael Thomas,O+,Mccarthyhaven,41.3481835,-135.904036,134,Yes,No,0
+DR0727,Jason Patton,AB-,Jennifermouth,33.197771,-179.603001,164,No,Yes,0
+DR0728,Rebecca Edwards,B-,Hillview,-29.4592695,-43.492039,5,Yes,No,0
+DR0729,Roger Freeman,A+,Robertsburgh,-25.598089,-115.922283,40,No,Yes,0
+DR0730,Patricia Hernandez,O+,East Davidfurt,-8.2250565,-172.89159,140,Yes,No,0
+DR0731,Olivia Sweeney,A-,Smithland,65.8776005,94.653982,0,Yes,No,0
+DR0732,Johnny Salazar,B-,West Kelsey,-12.8116265,-49.503579,91,No,No,0
+DR0733,Derek Stewart,A-,New Andrea,10.096682,70.241953,63,Yes,No,0
+DR0734,Lindsey Lee,A-,Hawkinsland,-44.86381,11.457951,162,No,No,0
+DR0735,Larry Coleman,A+,Toniland,-11.666608,-8.75107,79,No,No,0
+DR0736,Emma Fry,AB-,New Carl,-22.68313,61.879836,148,No,Yes,0
+DR0737,Nina Rodriguez,A+,Port Deborahtown,78.541907,155.76096,118,Yes,No,0
+DR0738,Amber Edwards,AB-,North Brittanychester,18.854574,30.815607,19,No,No,0
+DR0739,Mr. Rodney Ellis,O-,North Joyce,-59.361795,-95.17534,5,No,Yes,0
+DR0740,Jordan Martin,B+,Cohenfort,45.638689,174.080701,98,Yes,Yes,0
+DR0741,Tina Carter,B-,Marieport,-19.6496455,-117.046769,137,Yes,Yes,0
+DR0742,Michael White,O-,New Johnton,83.6013615,-50.822268,27,Yes,Yes,0
+DR0743,Crystal Wallace,AB-,Robertsonview,-44.166375,103.88183,53,No,No,0
+DR0744,April Rodriguez,AB-,Port Nathaniel,16.964115,-81.868849,36,Yes,Yes,0
+DR0745,Cynthia Santos,A+,Craigfort,-88.5416805,-77.220891,50,No,Yes,0
+DR0746,Donald Medina,AB+,Port Williamborough,-4.158825,3.320523,163,No,Yes,0
+DR0747,Jonathan Weeks,A-,Bridgetshire,34.0386545,153.264981,146,Yes,No,0
+DR0748,Susan Saunders,A-,Jonesview,10.3075715,24.888401,19,Yes,Yes,0
+DR0749,Mark West,O+,Lake Dennis,55.4530745,-83.410427,1,Yes,Yes,0
+DR0750,Dylan Fuller,B+,East Jonathan,-76.7588795,-39.545638,122,No,Yes,0
+DR0751,Johnny Morales,A-,North Douglasside,-29.900196,124.724145,178,Yes,Yes,1
+DR0752,Bradley Rivera,B+,Tiffanyfurt,-10.8496805,76.690129,93,Yes,Yes,0
+DR0753,Melissa Moran,O+,New Tammy,-14.586753,-111.97675,56,No,Yes,0
+DR0754,Jennifer Vargas,A-,Stephaniefort,83.952108,44.071287,156,Yes,No,0
+DR0755,Ronald Rogers,B+,South Megan,43.078821,-90.507757,11,Yes,Yes,0
+DR0756,Leslie Johnson,O-,South Justin,13.9158755,60.33165,55,Yes,Yes,0
+DR0757,Sarah Keller,O+,Pricebury,-49.962404,-70.272152,168,Yes,Yes,1
+DR0758,Jane Wolfe,A+,Nancyside,43.2422245,-141.363116,56,No,No,0
+DR0759,Joann Hall,AB-,Petersontown,88.089474,133.124853,124,No,No,0
+DR0760,Mark Hopkins,O-,Elijahside,86.9842025,66.56801,87,No,No,0
+DR0761,Kristen Thompson,AB+,Carmenbury,-73.8377175,-141.819633,8,No,No,0
+DR0762,Melissa Davis,AB+,East Timothy,-32.4095325,-18.066847,124,Yes,Yes,0
+DR0763,Lisa Garcia,O+,Melissahaven,58.1741295,74.200277,41,Yes,Yes,0
+DR0764,Jordan Irwin,A+,Lake Diane,-16.398102,-41.518983,24,No,Yes,0
+DR0765,Nicholas Taylor,O+,Francisland,-76.3366745,8.651682,121,Yes,No,0
+DR0766,Audrey Edwards,B+,East Christopherside,25.6226845,114.581866,112,No,No,0
+DR0767,Adam Wilkinson,O-,South Melissamouth,-65.8117595,69.310552,168,No,Yes,0
+DR0768,Rebecca Taylor,O-,South Katherinechester,3.296836,-142.14314,37,Yes,No,0
+DR0769,Alejandra Edwards,A+,Lake Kurtside,80.655503,-176.831394,147,No,No,0
+DR0770,Andrew Smith,B-,Josephside,58.682936,116.537539,171,No,Yes,0
+DR0771,Ricky Adams,A+,South Cherylport,-45.2082405,-174.351939,171,No,Yes,0
+DR0772,Jennifer Barnes,B+,Michelleview,-59.3169175,17.482263,65,No,No,0
+DR0773,John Adams,A+,Reneeshire,-42.9481115,94.954023,80,Yes,No,0
+DR0774,Lori Harvey,AB+,Howardburgh,-79.0384385,-57.287492,5,Yes,No,0
+DR0775,Julie Potter,B+,South Christianmouth,7.2800115,155.238482,55,Yes,Yes,0
+DR0776,Matthew Murphy,B-,Gardnerside,-84.4182505,33.24867,120,Yes,Yes,0
+DR0777,Lucas Jackson,O-,South Brad,56.428766,-76.116933,36,No,Yes,0
+DR0778,Samantha Dawson,B+,Carlsonbury,-12.8192235,-136.392399,15,Yes,Yes,0
+DR0779,Tamara Thomas,O-,Port Crystalville,73.7477805,90.07423,92,Yes,No,0
+DR0780,Justin Griffin,B-,Royview,-50.188025,-91.558332,43,Yes,Yes,0
+DR0781,Patrick Williams,O-,Port Heidi,-57.1663225,177.934538,91,No,No,0
+DR0782,Sierra Gonzalez,O-,Burtonburgh,28.177108,-163.050431,3,Yes,No,0
+DR0783,Angel Mullins,B-,North Dustin,52.5602925,149.828436,50,Yes,Yes,0
+DR0784,Nicole Hughes,B-,South Jennifer,63.5195395,-31.798689,2,No,Yes,0
+DR0785,David Landry,B-,Lake Tracy,59.226056,-154.101078,155,Yes,Yes,0
+DR0786,Robert Gray,AB-,East Jeffrey,77.6228505,159.774949,40,Yes,No,0
+DR0787,Mr. Michael Conrad II,AB+,Lopezton,-53.316863,52.463709,148,Yes,No,0
+DR0788,Cassandra Rangel,AB+,West Tylerfort,27.7396245,28.017556,176,No,Yes,0
+DR0789,Kevin Miller,B-,Shellystad,78.586046,-152.105138,141,Yes,No,0
+DR0790,Carolyn Cooper,O+,Danielbury,51.6091105,75.436627,160,Yes,No,0
+DR0791,Jerry Hendricks,O-,East Tiffanyside,-50.714001,131.917475,151,Yes,Yes,1
+DR0792,Bryan Manning,B-,Port Kimberly,-51.1330245,-166.729684,14,No,No,0
+DR0793,Tiffany Willis,O-,Bobbyhaven,-8.098447,73.882426,66,Yes,Yes,0
+DR0794,David Zimmerman,O+,Ellisview,-52.016847,-10.653775,39,No,No,0
+DR0795,Jesse Sanchez,O-,South Bruce,45.7125475,166.444981,140,No,No,0
+DR0796,Ashley Schaefer,B-,South Brandon,25.3101555,-119.801889,125,No,Yes,0
+DR0797,Nicole Rogers,A+,Johnsonchester,86.4194845,-97.111317,126,No,Yes,0
+DR0798,Wanda Ponce,B-,Rogersfurt,-69.4282495,84.490469,14,No,No,0
+DR0799,Brandy Russell,B+,South Curtis,66.2815575,6.516843,85,Yes,No,0
+DR0800,Brenda Parker,A-,Lake Jessica,-56.94101,66.047178,83,Yes,Yes,0
+DR0801,Luis Esparza,B-,Calebton,47.958475,-28.542933,57,Yes,Yes,0
+DR0802,Rebecca Hendricks,A-,Parksland,2.9058655,-42.354193,107,Yes,Yes,1
+DR0803,Tiffany Callahan,O+,Saraburgh,-47.041692,-19.053801,3,Yes,No,0
+DR0804,Robin Scott,B-,Davishaven,49.65468,-143.774936,6,Yes,Yes,0
+DR0805,Melinda Johnson,AB-,East Mariahville,-5.7175905,60.780933,168,Yes,Yes,0
+DR0806,James Cantrell,AB-,West Carl,-29.5275285,40.654111,179,No,Yes,0
+DR0807,Hunter Hamilton,A+,Heidiview,41.500682,172.609165,83,No,No,0
+DR0808,Audrey Campbell,AB+,Port Shannonside,-18.428967,-152.747877,14,No,No,0
+DR0809,Kimberly Kramer,A-,Huangland,-61.460366,-109.388553,99,Yes,No,0
+DR0810,Joan Diaz,O-,West Davidfurt,-46.890003,7.372749,10,No,No,0
+DR0811,Kaitlin Townsend,AB-,North Kellimouth,-22.9367335,-85.248937,114,No,No,0
+DR0812,Anna Larson,AB+,Gonzalesshire,85.0268175,72.294184,78,Yes,No,0
+DR0813,Walter Hicks,O+,Lake Brooke,-88.1303265,-108.887851,18,Yes,Yes,0
+DR0814,Brandon Cuevas,O-,Port Daniel,52.7117275,-142.254681,153,No,No,0
+DR0815,Terri Williamson,AB-,Avilashire,-45.0268855,122.533295,146,Yes,Yes,0
+DR0816,Natasha Norris,B+,Ballardshire,-36.7426895,-171.741976,20,Yes,Yes,0
+DR0817,Elaine Cohen,B-,Rebeccatown,82.708021,80.360206,176,Yes,Yes,0
+DR0818,Rebecca Robertson,AB-,Charlesmouth,14.7591355,6.555361,34,Yes,No,0
+DR0819,Heather Malone,AB-,Barnesbury,-49.9386015,167.128067,79,No,Yes,0
+DR0820,Amy Williams,B+,New Garyberg,20.666432,129.489745,109,No,No,0
+DR0821,Bryan Hester,A+,Barberside,-87.586245,-24.789325,152,No,Yes,0
+DR0822,Anna Morris,B+,Andersonfort,-18.259434,92.939093,99,No,No,0
+DR0823,Jeremy Sullivan,O+,Penafurt,-75.372588,-73.285901,42,No,Yes,0
+DR0824,William Hanson,B-,South Christopherville,79.3098635,33.670165,71,No,No,0
+DR0825,Daniel Hendricks,B+,West Robert,-46.8238315,168.904138,103,No,Yes,0
+DR0826,Kevin Norris,A-,Warrenville,51.6190935,-177.407956,167,No,Yes,0
+DR0827,Joel Collins,A+,New Brenda,67.8060645,-151.953339,55,Yes,No,0
+DR0828,Megan Cervantes,AB+,New Nicholas,51.062991,-122.367971,96,Yes,No,0
+DR0829,Sarah Mora,B+,New Kara,-8.2128555,-25.306427,59,No,No,0
+DR0830,Cynthia Smith,B-,North Michaelbury,-7.120496,-136.366586,43,Yes,Yes,0
+DR0831,Loretta Frazier,A-,Lake Cindyport,63.1210595,61.477597,133,Yes,Yes,1
+DR0832,Jose Ochoa,A+,Velasquezborough,-39.73508,-145.035981,31,No,No,0
+DR0833,Diane Brock,O+,Lake Billy,-76.2931,-155.99804,39,Yes,Yes,0
+DR0834,Rachel Brown,O-,North Christian,24.3619845,-114.075222,63,No,No,0
+DR0835,Tina Lopez,A-,Port Steven,-5.6525665,74.32556,92,No,No,0
+DR0836,Teresa Contreras,A-,Sellersmouth,-23.0467145,-124.370456,115,No,No,0
+DR0837,Andrew Pena,AB+,North John,67.0161795,-78.286309,179,Yes,No,0
+DR0838,Rebecca Fields,O+,North Susanshire,-58.5102895,148.404841,174,No,No,0
+DR0839,Michaela Smith,B-,Reynoldsport,-43.413822,-98.172518,10,No,No,0
+DR0840,Benjamin Smith,B+,Davidstad,22.993437,-58.910294,126,No,No,0
+DR0841,Gregg Johnson,B+,Scottton,63.93701,90.470662,175,Yes,No,0
+DR0842,Scott Wade,B+,South Teresa,29.8284315,55.969903,166,Yes,No,0
+DR0843,Angela Scott,O-,Josechester,-82.4530985,8.565631,165,No,Yes,0
+DR0844,Andres Mooney,B+,Lake Crystal,-79.7732355,-43.078256,157,Yes,Yes,0
+DR0845,Shelley James,B-,Jonesland,-80.6878665,90.478589,93,No,Yes,0
+DR0846,John Martinez,AB+,Port Annaview,46.888066,76.411628,64,Yes,No,0
+DR0847,Amy Santiago,B-,Lake Phillipside,-47.8655865,-104.95864,13,No,Yes,0
+DR0848,Lisa Lee,AB+,Erinville,53.301252,-3.145463,31,No,No,0
+DR0849,Brian Harrell,B-,Garzabury,-43.997465,-172.950484,4,Yes,No,0
+DR0850,Lisa Holden,O+,New Richardtown,-60.036858,-117.661549,42,No,No,0
+DR0851,Andrew Douglas,A-,Williamsburgh,8.837239,-169.992402,170,Yes,No,0
+DR0852,Timothy Conner,O-,Lake Meghan,-78.6239845,78.951851,127,No,No,0
+DR0853,Timothy Duncan Jr.,O+,Port Clayton,34.5348955,151.361673,49,Yes,Yes,0
+DR0854,Nicholas Moore,B-,Port Bryan,-49.395161,-5.254459,109,Yes,Yes,0
+DR0855,Lisa Marquez,B-,Port Desireeview,-17.212293,167.319297,105,Yes,No,0
+DR0856,Michael Collier,B+,Johnsonville,-86.5722705,144.375157,2,Yes,Yes,0
+DR0857,Lisa Dalton,B+,North Johnny,12.4783205,144.365913,90,Yes,No,0
+DR0858,Keith Henson,A-,Port Lydiaburgh,-81.386938,-57.336355,78,No,Yes,0
+DR0859,Sarah Bailey,B+,Michaelborough,64.039583,-18.307626,152,Yes,No,0
+DR0860,Jessica Garcia,O-,Richardburgh,17.2279505,-77.835911,15,Yes,No,0
+DR0861,Lisa Hamilton,AB-,South Maria,17.847699,-96.138705,7,No,No,0
+DR0862,Justin Woodward,O+,Omarberg,-17.751219,86.30359,60,No,No,0
+DR0863,David Robinson,AB-,South Melissahaven,-56.7686185,46.599444,171,No,No,0
+DR0864,Jason Gonzalez,A-,Port Brandyfurt,-46.1115035,152.430326,4,Yes,No,0
+DR0865,Christopher White,O+,West Danielle,-68.8589945,50.197468,138,No,Yes,0
+DR0866,James White,AB-,Andrewbury,51.7056785,-87.60951,77,Yes,No,0
+DR0867,Jessica Perez,B+,Hayesland,-60.710637,86.789672,27,Yes,No,0
+DR0868,Keith Monroe,O+,Lauraside,62.7666575,-132.949379,88,No,Yes,0
+DR0869,David Willis,AB+,North Keith,-49.555424,126.476365,64,Yes,Yes,0
+DR0870,Jessica Fletcher PhD,O+,Port Lisa,-54.4094115,2.819194,52,No,Yes,0
+DR0871,Dawn Rodriguez,AB-,East Keith,55.923963,-129.423779,155,No,Yes,0
+DR0872,Kim Hunt,A+,Lake Shannon,-71.1702905,128.771543,106,No,Yes,0
+DR0873,Daniel Bailey,A-,Morrisbury,32.023676,11.999252,175,No,Yes,0
+DR0874,Jean Perez,B+,Ashleyland,-30.0240515,143.428443,160,No,Yes,0
+DR0875,Keith Stewart,B-,Barbaraport,-57.859514,-86.852384,145,Yes,Yes,0
+DR0876,Christopher Thompson,B-,Anthonychester,17.41721,45.65945,56,No,No,0
+DR0877,Justin Jones,O-,West Robert,-26.7970045,-57.888627,70,No,No,0
+DR0878,Samantha Valdez,AB-,Sullivanland,27.4243755,109.412871,166,No,No,0
+DR0879,Alexander Rojas,A-,Robertsfurt,73.8755105,137.630794,78,No,No,0
+DR0880,Samantha Turner,AB-,New Brent,72.783403,-150.832266,41,No,No,0
+DR0881,Jonathan Crawford,B-,Jordanbury,13.0024335,-146.501829,155,No,No,0
+DR0882,Paul Daniels,A+,Port Erica,42.1371635,73.214544,156,Yes,Yes,1
+DR0883,Diana Campbell,O-,Nguyenview,64.2351125,-165.231344,174,Yes,No,0
+DR0884,Megan Wright,AB+,North Kelsey,-54.4301265,90.286676,139,No,No,0
+DR0885,Beverly Friedman,O+,Sotohaven,60.303828,128.539501,13,Yes,No,0
+DR0886,Douglas Graham,A+,South Derrickchester,85.9003905,34.538658,7,No,Yes,0
+DR0887,Dr. Brandon Hale,AB+,Kathrynville,68.4503935,-0.608954,87,Yes,Yes,0
+DR0888,Jasmine Stone,O+,North David,43.2568415,-18.750979,131,Yes,No,0
+DR0889,Andrew Robinson,AB-,Ballardfurt,25.777807,54.10086,159,No,No,0
+DR0890,Elizabeth Figueroa,B-,Lake Kerry,47.7699505,100.578807,127,Yes,Yes,0
+DR0891,Jessica George,B+,East Larryside,-49.321863,-43.809334,11,No,No,0
+DR0892,Elizabeth Ray,AB-,West Briannaton,-44.0831865,149.444638,20,No,Yes,0
+DR0893,Theresa Small,B-,Port Paulville,-25.069499,-22.487083,67,Yes,Yes,0
+DR0894,Kimberly Vang,AB+,Brandonberg,74.3077955,-26.754901,93,No,Yes,0
+DR0895,Thomas Kemp,AB-,Port Brianport,71.2389855,-68.430503,132,Yes,No,0
+DR0896,Jason Hicks,B-,Port Jamie,-43.092065,93.025616,16,No,No,0
+DR0897,Robert Castro,O-,North Bethany,62.5645985,-156.637575,152,No,No,0
+DR0898,Tiffany Williamson,A+,Kimberlyfort,65.007794,-132.416981,93,Yes,Yes,1
+DR0899,Tammy Ortiz,O-,Vasqueztown,-68.6946035,19.622242,58,Yes,Yes,0
+DR0900,Kayla Sullivan,AB+,North Amandaland,-76.035823,108.726252,15,No,No,0
+DR0901,Lori Alvarez,B+,Mooreshire,4.1262885,-152.371326,8,Yes,Yes,0
+DR0902,Amanda Villarreal,B+,East Nicholasmouth,5.6170665,162.409252,149,No,Yes,0
+DR0903,Michelle Moore,AB+,South Jennifer,-5.802142,29.455718,94,Yes,No,0
+DR0904,Thomas Vaughn,A-,North Barbarashire,-25.364571,97.006402,168,No,Yes,0
+DR0905,Darren Dennis,O+,South Catherineside,12.707657,29.828337,11,Yes,No,0
+DR0906,Garrett Barnes,A+,Millerton,-17.5582865,-88.240287,109,No,Yes,0
+DR0907,Eric Ramos,B+,South Jeromechester,-18.4390185,-60.785091,63,Yes,Yes,0
+DR0908,Lisa Evans,AB+,Port Elaine,-66.6750545,75.315554,16,Yes,No,0
+DR0909,Robert Welch,B-,Timothyland,39.252487,-60.67035,8,No,Yes,0
+DR0910,Taylor Carpenter,A+,North Cherylhaven,55.8488445,92.82906,65,Yes,Yes,0
+DR0911,Barbara Potter,AB-,East Kimberlyport,-22.240474,-128.802841,169,No,No,0
+DR0912,Timothy Santos,B-,North Kristyburgh,23.856439,-177.421975,30,Yes,No,0
+DR0913,Jennifer Price,A-,West Antonio,64.877039,-84.236781,112,Yes,Yes,1
+DR0914,Brian Wells,B-,Lake Leahland,65.805246,-26.486007,151,No,Yes,0
+DR0915,Michelle Soto,O+,Lake Andrew,-78.5589525,-47.361326,53,Yes,Yes,0
+DR0916,Michael Williams,B+,South Raymondfurt,66.242289,93.720235,129,No,No,0
+DR0917,Christina Harris,B-,Lake Steveside,49.597074,-85.948853,155,Yes,No,0
+DR0918,Anthony Johnson,A+,Derrickhaven,67.1497665,-9.273842,42,Yes,No,0
+DR0919,Alex Duffy,AB-,Johnnyport,-85.2647855,-169.796102,31,No,No,0
+DR0920,Courtney Thompson,AB-,Devinmouth,-28.6103425,-96.096206,143,Yes,No,0
+DR0921,Krista Huerta,B-,Lake Jason,76.5307205,130.372925,86,Yes,Yes,0
+DR0922,Johnny Holland,B-,East Ryan,59.243631,-176.280011,72,Yes,Yes,0
+DR0923,Ricky Mathews,B+,Lake Tasha,-11.917609,81.270403,135,No,Yes,0
+DR0924,Corey Smith,B-,Kathleentown,-7.8233745,59.174897,104,No,Yes,0
+DR0925,Kelly Williams,A-,North Lisachester,-67.56623,93.109244,50,Yes,Yes,0
+DR0926,Erica Edwards,B+,Pittsmouth,66.5323765,-161.922836,158,No,Yes,0
+DR0927,Lori Aguilar,A+,Boyerfurt,-0.9441715,-163.809738,14,Yes,Yes,0
+DR0928,Eric Stewart,O-,East Angelaton,32.0996265,-114.17489,111,Yes,Yes,1
+DR0929,Krystal Maxwell,A-,Hannahberg,-14.595923,-27.99152,60,Yes,No,0
+DR0930,Keith Casey,A-,Bridgetstad,-55.1478475,58.741813,57,Yes,Yes,0
+DR0931,Brandy Hampton,AB+,Heatherport,86.692097,-120.281873,172,Yes,Yes,0
+DR0932,John Kirby,A-,East Veronica,27.2575645,-18.415574,164,No,Yes,0
+DR0933,Patrick Humphrey,B-,Port Samanthaborough,20.191997,-86.93908,141,Yes,Yes,0
+DR0934,Juan Evans,O+,Riosmouth,-41.1584525,172.442176,167,No,Yes,0
+DR0935,Rhonda Conway,B+,Port Mark,22.135968,158.5317,20,Yes,No,0
+DR0936,Alyssa Benson,B-,Morrowview,37.396956,-39.410248,84,No,Yes,0
+DR0937,Jonathon Simpson,A-,West Dakotaland,27.4731175,-75.881636,61,No,No,0
+DR0938,Robert Romero,AB+,New Lauren,-21.952971,-94.855727,156,No,Yes,0
+DR0939,Steven Lucas,AB-,New Danielville,-9.3473575,127.459618,54,No,Yes,0
+DR0940,Cody Ochoa,A+,Amyburgh,26.3089375,-82.910468,148,Yes,Yes,1
+DR0941,Leroy Mckinney,A-,South Amy,-42.3309765,18.11235,171,Yes,Yes,1
+DR0942,James Cole,B+,Jillianhaven,-46.1919935,-148.747837,168,No,No,0
+DR0943,Jody Rich,AB+,Brittanyfurt,50.859854,-127.185669,147,Yes,Yes,0
+DR0944,Tina Peters,B+,Claytonberg,38.7806275,155.506831,132,Yes,Yes,0
+DR0945,Erica Tucker,AB-,Port Robert,65.8641745,21.726183,80,Yes,No,0
+DR0946,Douglas Johnson,A-,South James,67.823455,155.82385,23,Yes,No,0
+DR0947,Heather Vega,AB+,East Rebecca,-33.4805215,-156.949543,111,Yes,No,0
+DR0948,Ashley Bautista,B-,Deborahfurt,45.804905,-86.831918,180,Yes,Yes,0
+DR0949,Daniel Ramos,A-,Lake Deborahberg,-44.940599,-87.332476,139,No,Yes,0
+DR0950,Lauren Williams,AB-,Fieldsview,-43.182866,-25.048323,166,Yes,Yes,0
+DR0951,Christie Jones,B+,Rossborough,11.9042475,176.434534,125,Yes,Yes,0
+DR0952,Jacqueline Jackson,A-,Lake Victor,-14.710455,95.070501,169,No,Yes,0
+DR0953,Melvin May,O+,North Alexandermouth,39.531213,-128.304502,93,Yes,Yes,1
+DR0954,Frank Yang,A+,Nicholsfurt,52.0597905,-88.461946,59,Yes,Yes,0
+DR0955,Anthony Daniels,A-,Brendastad,-66.5106195,-179.839912,156,Yes,No,0
+DR0956,Jean Brewer,B+,West Christine,51.8897805,53.278294,140,Yes,No,0
+DR0957,Joseph Brown,A+,Kerrfort,-24.1542075,155.500243,141,No,Yes,0
+DR0958,Mindy Aguilar,AB+,Davismouth,57.1025125,-71.458177,81,Yes,No,0
+DR0959,Whitney Morales,AB-,East Suzannehaven,-57.1998755,-49.922198,108,No,No,0
+DR0960,Danny Dixon,O-,North Davidbury,73.057275,-24.279938,179,Yes,Yes,1
+DR0961,Nicole Jordan,O+,Hernandezstad,84.84817,-49.856986,168,No,Yes,0
+DR0962,Paula Wood,A-,West Brandon,59.162514,-141.755662,70,No,Yes,0
+DR0963,Laura Casey,A-,South Angela,48.8053975,-5.482934,69,Yes,Yes,0
+DR0964,Michael Hunt,B+,North Abigailshire,-6.565346,-83.895191,4,No,Yes,0
+DR0965,Matthew Turner,A-,Juarezchester,61.1021345,-58.1954,139,Yes,Yes,1
+DR0966,Michael Jennings,O-,Janestad,-70.1799185,-51.946635,179,Yes,No,0
+DR0967,Kenneth Nguyen,B+,Phillipshaven,67.657285,-97.276569,13,Yes,Yes,0
+DR0968,Amanda Walker,B-,East Williamfurt,80.071744,-163.455665,60,No,Yes,0
+DR0969,Cody Davis,O-,South David,49.6977385,0.792216,160,No,Yes,0
+DR0970,Rachel Byrd,AB-,Hicksbury,23.138799,-76.463353,39,No,No,0
+DR0971,Diane Pugh,B+,Palmertown,-51.7577575,-106.88433,43,Yes,Yes,0
+DR0972,David Porter,B-,South Stacybury,-21.6795755,33.893767,65,Yes,Yes,0
+DR0973,Walter Nichols,B+,Port Kellyfurt,63.155235,104.074723,17,Yes,Yes,0
+DR0974,James Mitchell,AB-,South Cindy,-9.090368,65.519759,155,Yes,No,0
+DR0975,Jessica Norman,O+,Lake Susanside,25.4857405,-7.143493,41,No,Yes,0
+DR0976,Todd Munoz,O+,New Jacqueline,24.102102,131.766018,150,Yes,No,0
+DR0977,Matthew Daniels,AB+,Padillaville,73.036334,-163.10958,44,No,Yes,0
+DR0978,Lauren Edwards,AB-,East Cameronchester,84.583564,41.68171,160,No,No,0
+DR0979,Daniel Good,O-,Kellyburgh,-74.481516,-151.591802,20,Yes,No,0
+DR0980,Tony Mendoza,A-,Tarashire,66.8236615,-67.138095,40,No,No,0
+DR0981,Ronald Griffin,O-,Port Timothy,34.760031,30.663625,7,Yes,No,0
+DR0982,Travis Velasquez MD,AB+,Onealton,66.7720215,-52.596879,49,Yes,No,0
+DR0983,Kristen Mercer,A-,New James,77.471953,-125.693377,132,Yes,Yes,1
+DR0984,William Wells,A-,Barkerborough,29.4553305,-117.503365,126,No,Yes,0
+DR0985,Michael Carter,AB+,Briannabury,39.5150015,3.569768,89,No,No,0
+DR0986,Ms. Maria Robertson,A-,Connieview,-42.520432,-10.895424,9,No,Yes,0
+DR0987,Patrick Smith,B+,Taylortown,-74.8410935,-33.22225,76,Yes,No,0
+DR0988,Dorothy Anderson DDS,A+,Lake Maryside,32.195104,70.032274,131,Yes,Yes,1
+DR0989,Sabrina Williams,A-,North Jamiestad,-81.1267445,168.280848,115,Yes,Yes,1
+DR0990,Stephanie Norman,A-,Lake Kristichester,75.5063785,146.664684,149,No,Yes,0
+DR0991,Julia Williams,A-,Donaldmouth,50.603839,86.039413,49,No,No,0
+DR0992,Mark Johnston,A-,Abigailville,65.4049555,-142.531283,16,Yes,Yes,0
+DR0993,Michael Fleming DDS,A+,Gomezburgh,15.011687,-92.094523,92,Yes,Yes,1
+DR0994,Shawn Willis,B+,North Nicole,-17.3590065,86.970227,107,No,Yes,0
+DR0995,Kelly Reyes,O+,Marshallview,-26.073499,93.967826,91,No,Yes,0
+DR0996,Erica Brown,O-,East Oscar,-51.9553635,-61.697555,141,Yes,Yes,1
+DR0997,Tracy Jackson,A+,South Robertview,-10.497008,118.130826,53,Yes,No,0
+DR0998,Edward Medina,AB-,Lake Dylan,-69.077137,7.63515,33,No,Yes,0
+DR0999,Trevor Thompson,A+,Port Katherineport,64.3198595,63.202359,117,Yes,No,0
+DR1000,Sarah Jenkins,AB+,Port Lindsayburgh,43.7516915,82.27741,106,No,Yes,0
